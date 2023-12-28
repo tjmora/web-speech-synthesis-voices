@@ -1,0 +1,4225 @@
+{
+  "de": [
+    {
+      "dialect": "DE",
+      "name": "Google Deutsch",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Linux",
+          "browser": "Google Chrome",
+          "uri": "Google Deutsch"
+        },
+        [
+          {
+            "os": "Windows",
+            "browser": "Google Chrome",
+            "uri": "Google Deutsch"
+          }
+        ]
+      ]
+    },
+    {
+      "dialect": "AT",
+      "name": "Microsoft Ingrid Online (Natural) - German (Austria)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Ingrid Online (Natural) - German (Austria)"
+        }
+      ]
+    },
+    {
+      "dialect": "AT",
+      "name": "Microsoft Jonas Online (Natural) - German (Austria)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Jonas Online (Natural) - German (Austria)"
+        }
+      ]
+    },
+    {
+      "dialect": "DE",
+      "name": "Microsoft Amala Online (Natural) - German (Germany)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Amala Online (Natural) - German (Germany)"
+        }
+      ]
+    },
+    {
+      "dialect": "DE",
+      "name": "Microsoft Conrad Online (Natural) - German (Germany)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Conrad Online (Natural) - German (Germany)"
+        }
+      ]
+    },
+    {
+      "dialect": "DE",
+      "name": "Microsoft Katja Online (Natural) - German (Germany)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Katja Online (Natural) - German (Germany)"
+        }
+      ]
+    },
+    {
+      "dialect": "DE",
+      "name": "Microsoft Killian Online (Natural) - German (Germany)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Killian Online (Natural) - German (Germany)"
+        }
+      ]
+    },
+    {
+      "dialect": "CH",
+      "name": "Microsoft Jan Online (Natural) - German (Switzerland)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Jan Online (Natural) - German (Switzerland)"
+        }
+      ]
+    },
+    {
+      "dialect": "CH",
+      "name": "Microsoft Leni Online (Natural) - German (Switzerland)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Leni Online (Natural) - German (Switzerland)"
+        }
+      ]
+    }
+  ],
+  "en": [
+    {
+      "dialect": "US",
+      "name": "Google US English",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Linux",
+          "browser": "Google Chrome",
+          "uri": "Google US English"
+        },
+        [
+          {
+            "os": "Windows",
+            "browser": "Google Chrome",
+            "uri": "Google US English"
+          }
+        ]
+      ]
+    },
+    {
+      "dialect": "GB",
+      "name": "Google UK English Female",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Linux",
+          "browser": "Google Chrome",
+          "uri": "Google UK English Female"
+        },
+        [
+          {
+            "os": "Windows",
+            "browser": "Google Chrome",
+            "uri": "Google UK English Female"
+          }
+        ]
+      ]
+    },
+    {
+      "dialect": "GB",
+      "name": "Google UK English Male",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Linux",
+          "browser": "Google Chrome",
+          "uri": "Google UK English Male"
+        },
+        [
+          {
+            "os": "Windows",
+            "browser": "Google Chrome",
+            "uri": "Google UK English Male"
+          }
+        ]
+      ]
+    },
+    {
+      "dialect": "US",
+      "name": "Microsoft David - English (United States)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Google Chrome",
+          "uri": "Microsoft David - English (United States)"
+        },
+        [
+          {
+            "os": "Windows",
+            "browser": "Microsoft Edge",
+            "uri": "Microsoft David - English (United States)"
+          }
+        ],
+        [
+          {
+            "os": "Windows",
+            "browser": "Mozilla Firefox",
+            "uri": "urn:moz-tts:sapi:Microsoft David - English (United States)?en-US"
+          }
+        ]
+      ]
+    },
+    {
+      "dialect": "US",
+      "name": "Microsoft Mark - English (United States)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Google Chrome",
+          "uri": "Microsoft Mark - English (United States)"
+        },
+        [
+          {
+            "os": "Windows",
+            "browser": "Microsoft Edge",
+            "uri": "Microsoft Mark - English (United States)"
+          }
+        ],
+        [
+          {
+            "os": "Windows",
+            "browser": "Mozilla Firefox",
+            "uri": "urn:moz-tts:sapi:Microsoft Mark - English (United States)?en-US"
+          }
+        ]
+      ]
+    },
+    {
+      "dialect": "US",
+      "name": "Microsoft Zira - English (United States)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Google Chrome",
+          "uri": "Microsoft Zira - English (United States)"
+        },
+        [
+          {
+            "os": "Windows",
+            "browser": "Microsoft Edge",
+            "uri": "Microsoft Zira - English (United States)"
+          }
+        ],
+        [
+          {
+            "os": "Windows",
+            "browser": "Mozilla Firefox",
+            "uri": "urn:moz-tts:sapi:Microsoft Zira - English (United States)?en-US"
+          }
+        ]
+      ]
+    },
+    {
+      "dialect": "AU",
+      "name": "Microsoft Natasha Online (Natural) - English (Australia)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Natasha Online (Natural) - English (Australia)"
+        }
+      ]
+    },
+    {
+      "dialect": "AU",
+      "name": "Microsoft William Online (Natural) - English (Australia)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft William Online (Natural) - English (Australia)"
+        }
+      ]
+    },
+    {
+      "dialect": "CA",
+      "name": "Microsoft Clara Online (Natural) - English (Canada)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Clara Online (Natural) - English (Canada)"
+        }
+      ]
+    },
+    {
+      "dialect": "CA",
+      "name": "Microsoft Liam Online (Natural) - English (Canada)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Liam Online (Natural) - English (Canada)"
+        }
+      ]
+    },
+    {
+      "dialect": "HK",
+      "name": "Microsoft Sam Online (Natural) - English (Hongkong)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Sam Online (Natural) - English (Hongkong)"
+        }
+      ]
+    },
+    {
+      "dialect": "HK",
+      "name": "Microsoft Yan Online (Natural) - English (Hongkong)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Yan Online (Natural) - English (Hongkong)"
+        }
+      ]
+    },
+    {
+      "dialect": "IN",
+      "name": "Microsoft Neerja Online (Natural) - English (India) (Preview)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Neerja Online (Natural) - English (India) (Preview)"
+        }
+      ]
+    },
+    {
+      "dialect": "IN",
+      "name": "Microsoft Neerja Online (Natural) - English (India)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Neerja Online (Natural) - English (India)"
+        }
+      ]
+    },
+    {
+      "dialect": "IN",
+      "name": "Microsoft Prabhat Online (Natural) - English (India)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Prabhat Online (Natural) - English (India)"
+        }
+      ]
+    },
+    {
+      "dialect": "IE",
+      "name": "Microsoft Connor Online (Natural) - English (Ireland)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Connor Online (Natural) - English (Ireland)"
+        }
+      ]
+    },
+    {
+      "dialect": "IE",
+      "name": "Microsoft Emily Online (Natural) - English (Ireland)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Emily Online (Natural) - English (Ireland)"
+        }
+      ]
+    },
+    {
+      "dialect": "KE",
+      "name": "Microsoft Asilia Online (Natural) - English (Kenya)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Asilia Online (Natural) - English (Kenya)"
+        }
+      ]
+    },
+    {
+      "dialect": "KE",
+      "name": "Microsoft Chilemba Online (Natural) - English (Kenya)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Chilemba Online (Natural) - English (Kenya)"
+        }
+      ]
+    },
+    {
+      "dialect": "NZ",
+      "name": "Microsoft Mitchell Online (Natural) - English (New Zealand)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Mitchell Online (Natural) - English (New Zealand)"
+        }
+      ]
+    },
+    {
+      "dialect": "NZ",
+      "name": "Microsoft Molly Online (Natural) - English (New Zealand)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Molly Online (Natural) - English (New Zealand)"
+        }
+      ]
+    },
+    {
+      "dialect": "NG",
+      "name": "Microsoft Abeo Online (Natural) - English (Nigeria)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Abeo Online (Natural) - English (Nigeria)"
+        }
+      ]
+    },
+    {
+      "dialect": "NG",
+      "name": "Microsoft Ezinne Online (Natural) - English (Nigeria)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Ezinne Online (Natural) - English (Nigeria)"
+        }
+      ]
+    },
+    {
+      "dialect": "PH",
+      "name": "Microsoft James Online (Natural) - English (Philippines)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft James Online (Natural) - English (Philippines)"
+        }
+      ]
+    },
+    {
+      "dialect": "PH",
+      "name": "Microsoft Rosa Online (Natural) - English (Philippines)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Rosa Online (Natural) - English (Philippines)"
+        }
+      ]
+    },
+    {
+      "dialect": "SG",
+      "name": "Microsoft Luna Online (Natural) - English (Singapore)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Luna Online (Natural) - English (Singapore)"
+        }
+      ]
+    },
+    {
+      "dialect": "SG",
+      "name": "Microsoft Wayne Online (Natural) - English (Singapore)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Wayne Online (Natural) - English (Singapore)"
+        }
+      ]
+    },
+    {
+      "dialect": "ZA",
+      "name": "Microsoft Leah Online (Natural) - English (South Africa)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Leah Online (Natural) - English (South Africa)"
+        }
+      ]
+    },
+    {
+      "dialect": "ZA",
+      "name": "Microsoft Luke Online (Natural) - English (South Africa)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Luke Online (Natural) - English (South Africa)"
+        }
+      ]
+    },
+    {
+      "dialect": "TZ",
+      "name": "Microsoft Elimu Online (Natural) - English (Tanzania)",
+      "gender": "",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Elimu Online (Natural) - English (Tanzania)"
+        }
+      ]
+    },
+    {
+      "dialect": "TZ",
+      "name": "Microsoft Imani Online (Natural) - English (Tanzania)",
+      "gender": "",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Imani Online (Natural) - English (Tanzania)"
+        }
+      ]
+    },
+    {
+      "dialect": "GB",
+      "name": "Microsoft Libby Online (Natural) - English (United Kingdom)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Libby Online (Natural) - English (United Kingdom)"
+        }
+      ]
+    },
+    {
+      "dialect": "GB",
+      "name": "Microsoft Maisie Online (Natural) - English (United Kingdom)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Maisie Online (Natural) - English (United Kingdom)"
+        }
+      ]
+    },
+    {
+      "dialect": "GB",
+      "name": "Microsoft Ryan Online (Natural) - English (United Kingdom)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Ryan Online (Natural) - English (United Kingdom)"
+        }
+      ]
+    },
+    {
+      "dialect": "GB",
+      "name": "Microsoft Sonia Online (Natural) - English (United Kingdom)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Sonia Online (Natural) - English (United Kingdom)"
+        }
+      ]
+    },
+    {
+      "dialect": "GB",
+      "name": "Microsoft Thomas Online (Natural) - English (United Kingdom)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Thomas Online (Natural) - English (United Kingdom)"
+        }
+      ]
+    },
+    {
+      "dialect": "US",
+      "name": "Microsoft Aria Online (Natural) - English (United States)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Aria Online (Natural) - English (United States)"
+        }
+      ]
+    },
+    {
+      "dialect": "US",
+      "name": "Microsoft Ana Online (Natural) - English (United States)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Ana Online (Natural) - English (United States)"
+        }
+      ]
+    },
+    {
+      "dialect": "US",
+      "name": "Microsoft Christopher Online (Natural) - English (United States)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Christopher Online (Natural) - English (United States)"
+        }
+      ]
+    },
+    {
+      "dialect": "US",
+      "name": "Microsoft Eric Online (Natural) - English (United States)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Eric Online (Natural) - English (United States)"
+        }
+      ]
+    },
+    {
+      "dialect": "US",
+      "name": "Microsoft Guy Online (Natural) - English (United States)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Guy Online (Natural) - English (United States)"
+        }
+      ]
+    },
+    {
+      "dialect": "US",
+      "name": "Microsoft Jenny Online (Natural) - English (United States)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Jenny Online (Natural) - English (United States)"
+        }
+      ]
+    },
+    {
+      "dialect": "US",
+      "name": "Microsoft Michelle Online (Natural) - English (United States)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Michelle Online (Natural) - English (United States)"
+        }
+      ]
+    },
+    {
+      "dialect": "US",
+      "name": "Microsoft Roger Online (Natural) - English (United States)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Roger Online (Natural) - English (United States)"
+        }
+      ]
+    },
+    {
+      "dialect": "US",
+      "name": "Microsoft Steffan Online (Natural) - English (United States)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Steffan Online (Natural) - English (United States)"
+        }
+      ]
+    },
+    {
+      "dialect": "US",
+      "name": "Microsoft David Desktop - English (United States)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Mozilla Firefox",
+          "uri": "urn:moz-tts:sapi:Microsoft David Desktop - English (United States)?en-US"
+        }
+      ]
+    },
+    {
+      "dialect": "US",
+      "name": "Microsoft Zira Desktop - English (United States)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Mozilla Firefox",
+          "uri": "urn:moz-tts:sapi:Microsoft Zira Desktop - English (United States)?en-US"
+        }
+      ]
+    }
+  ],
+  "es": [
+    {
+      "dialect": "ES",
+      "name": "Google español",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Linux",
+          "browser": "Google Chrome",
+          "uri": "Google español"
+        },
+        [
+          {
+            "os": "Windows",
+            "browser": "Google Chrome",
+            "uri": "Google español"
+          }
+        ]
+      ]
+    },
+    {
+      "dialect": "US",
+      "name": "Google español de Estados Unidos",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Linux",
+          "browser": "Google Chrome",
+          "uri": "Google español de Estados Unidos"
+        },
+        [
+          {
+            "os": "Windows",
+            "browser": "Google Chrome",
+            "uri": "Google español de Estados Unidos"
+          }
+        ]
+      ]
+    },
+    {
+      "dialect": "AR",
+      "name": "Microsoft Elena Online (Natural) - Spanish (Argentina)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Elena Online (Natural) - Spanish (Argentina)"
+        }
+      ]
+    },
+    {
+      "dialect": "AR",
+      "name": "Microsoft Tomas Online (Natural) - Spanish (Argentina)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Tomas Online (Natural) - Spanish (Argentina)"
+        }
+      ]
+    },
+    {
+      "dialect": "BO",
+      "name": "Microsoft Marcelo Online (Natural) - Spanish (Bolivia)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Marcelo Online (Natural) - Spanish (Bolivia)"
+        }
+      ]
+    },
+    {
+      "dialect": "BO",
+      "name": "Microsoft Sofia Online (Natural) - Spanish (Bolivia)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Sofia Online (Natural) - Spanish (Bolivia)"
+        }
+      ]
+    },
+    {
+      "dialect": "CL",
+      "name": "Microsoft Catalina Online (Natural) - Spanish (Chile)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Catalina Online (Natural) - Spanish (Chile)"
+        }
+      ]
+    },
+    {
+      "dialect": "CL",
+      "name": "Microsoft Lorenzo Online (Natural) - Spanish (Chile)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Lorenzo Online (Natural) - Spanish (Chile)"
+        }
+      ]
+    },
+    {
+      "dialect": "CO",
+      "name": "Microsoft Gonzalo Online (Natural) - Spanish (Colombia)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Gonzalo Online (Natural) - Spanish (Colombia)"
+        }
+      ]
+    },
+    {
+      "dialect": "CO",
+      "name": "Microsoft Salome Online (Natural) - Spanish (Colombia)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Salome Online (Natural) - Spanish (Colombia)"
+        }
+      ]
+    },
+    {
+      "dialect": "CR",
+      "name": "Microsoft Juan Online (Natural) - Spanish (Costa Rica)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Juan Online (Natural) - Spanish (Costa Rica)"
+        }
+      ]
+    },
+    {
+      "dialect": "CR",
+      "name": "Microsoft Maria Online (Natural) - Spanish (Costa Rica)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Maria Online (Natural) - Spanish (Costa Rica)"
+        }
+      ]
+    },
+    {
+      "dialect": "CU",
+      "name": "Microsoft Belkys Online (Natural) - Spanish (Cuba)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Belkys Online (Natural) - Spanish (Cuba)"
+        }
+      ]
+    },
+    {
+      "dialect": "CU",
+      "name": "Microsoft Manuel Online (Natural) - Spanish (Cuba)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Manuel Online (Natural) - Spanish (Cuba)"
+        }
+      ]
+    },
+    {
+      "dialect": "DO",
+      "name": "Microsoft Emilio Online (Natural) - Spanish (Dominican Republic)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Emilio Online (Natural) - Spanish (Dominican Republic)"
+        }
+      ]
+    },
+    {
+      "dialect": "DO",
+      "name": "Microsoft Ramona Online (Natural) - Spanish (Dominican Republic)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Ramona Online (Natural) - Spanish (Dominican Republic)"
+        }
+      ]
+    },
+    {
+      "dialect": "EC",
+      "name": "Microsoft Andrea Online (Natural) - Spanish (Ecuador)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Andrea Online (Natural) - Spanish (Ecuador)"
+        }
+      ]
+    },
+    {
+      "dialect": "EC",
+      "name": "Microsoft Luis Online (Natural) - Spanish (Ecuador)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Luis Online (Natural) - Spanish (Ecuador)"
+        }
+      ]
+    },
+    {
+      "dialect": "SV",
+      "name": "Microsoft Lorena Online (Natural) - Spanish (El Salvador)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Lorena Online (Natural) - Spanish (El Salvador)"
+        }
+      ]
+    },
+    {
+      "dialect": "SV",
+      "name": "Microsoft Rodrigo Online (Natural) - Spanish (El Salvador)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Rodrigo Online (Natural) - Spanish (El Salvador)"
+        }
+      ]
+    },
+    {
+      "dialect": "GQ",
+      "name": "Microsoft Javier Online (Natural) - Spanish (Equatorial Guinea)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Javier Online (Natural) - Spanish (Equatorial Guinea)"
+        }
+      ]
+    },
+    {
+      "dialect": "GQ",
+      "name": "Microsoft Teresa Online (Natural) - Spanish (Equatorial Guinea)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Teresa Online (Natural) - Spanish (Equatorial Guinea)"
+        }
+      ]
+    },
+    {
+      "dialect": "GT",
+      "name": "Microsoft Andres Online (Natural) - Spanish (Guatemala)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Andres Online (Natural) - Spanish (Guatemala)"
+        }
+      ]
+    },
+    {
+      "dialect": "GT",
+      "name": "Microsoft Marta Online (Natural) - Spanish (Guatemala)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Marta Online (Natural) - Spanish (Guatemala)"
+        }
+      ]
+    },
+    {
+      "dialect": "HN",
+      "name": "Microsoft Carlos Online (Natural) - Spanish (Honduras)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Carlos Online (Natural) - Spanish (Honduras)"
+        }
+      ]
+    },
+    {
+      "dialect": "HN",
+      "name": "Microsoft Karla Online (Natural) - Spanish (Honduras)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Karla Online (Natural) - Spanish (Honduras)"
+        }
+      ]
+    },
+    {
+      "dialect": "MX",
+      "name": "Microsoft Dalia Online (Natural) - Spanish (Mexico)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Dalia Online (Natural) - Spanish (Mexico)"
+        }
+      ]
+    },
+    {
+      "dialect": "MX",
+      "name": "Microsoft Jorge Online (Natural) - Spanish (Mexico)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Jorge Online (Natural) - Spanish (Mexico)"
+        }
+      ]
+    },
+    {
+      "dialect": "NI",
+      "name": "Microsoft Federico Online (Natural) - Spanish (Nicaragua)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Federico Online (Natural) - Spanish (Nicaragua)"
+        }
+      ]
+    },
+    {
+      "dialect": "NI",
+      "name": "Microsoft Yolanda Online (Natural) - Spanish (Nicaragua)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Yolanda Online (Natural) - Spanish (Nicaragua)"
+        }
+      ]
+    },
+    {
+      "dialect": "PA",
+      "name": "Microsoft Margarita Online (Natural) - Spanish (Panama)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Margarita Online (Natural) - Spanish (Panama)"
+        }
+      ]
+    },
+    {
+      "dialect": "PA",
+      "name": "Microsoft Roberto Online (Natural) - Spanish (Panama)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Roberto Online (Natural) - Spanish (Panama)"
+        }
+      ]
+    },
+    {
+      "dialect": "PY",
+      "name": "Microsoft Mario Online (Natural) - Spanish (Paraguay)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Mario Online (Natural) - Spanish (Paraguay)"
+        }
+      ]
+    },
+    {
+      "dialect": "PY",
+      "name": "Microsoft Tania Online (Natural) - Spanish (Paraguay)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Tania Online (Natural) - Spanish (Paraguay)"
+        }
+      ]
+    },
+    {
+      "dialect": "PE",
+      "name": "Microsoft Alex Online (Natural) - Spanish (Peru)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Alex Online (Natural) - Spanish (Peru)"
+        }
+      ]
+    },
+    {
+      "dialect": "PE",
+      "name": "Microsoft Camila Online (Natural) - Spanish (Peru)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Camila Online (Natural) - Spanish (Peru)"
+        }
+      ]
+    },
+    {
+      "dialect": "PR",
+      "name": "Microsoft Karina Online (Natural) - Spanish (Puerto Rico)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Karina Online (Natural) - Spanish (Puerto Rico)"
+        }
+      ]
+    },
+    {
+      "dialect": "PR",
+      "name": "Microsoft Victor Online (Natural) - Spanish (Puerto Rico)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Victor Online (Natural) - Spanish (Puerto Rico)"
+        }
+      ]
+    },
+    {
+      "dialect": "ES",
+      "name": "Microsoft Alvaro Online (Natural) - Spanish (Spain)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Alvaro Online (Natural) - Spanish (Spain)"
+        }
+      ]
+    },
+    {
+      "dialect": "ES",
+      "name": "Microsoft Elvira Online (Natural) - Spanish (Spain)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Elvira Online (Natural) - Spanish (Spain)"
+        }
+      ]
+    },
+    {
+      "dialect": "US",
+      "name": "Microsoft Alonso Online (Natural) - Spanish (United States)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Alonso Online (Natural) - Spanish (United States)"
+        }
+      ]
+    },
+    {
+      "dialect": "US",
+      "name": "Microsoft Paloma Online (Natural) - Spanish (United States)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Paloma Online (Natural) - Spanish (United States)"
+        }
+      ]
+    },
+    {
+      "dialect": "UY",
+      "name": "Microsoft Mateo Online (Natural) - Spanish (Uruguay)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Mateo Online (Natural) - Spanish (Uruguay)"
+        }
+      ]
+    },
+    {
+      "dialect": "UY",
+      "name": "Microsoft Valentina Online (Natural) - Spanish (Uruguay)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Valentina Online (Natural) - Spanish (Uruguay)"
+        }
+      ]
+    },
+    {
+      "dialect": "VE",
+      "name": "Microsoft Paola Online (Natural) - Spanish (Venezuela)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Paola Online (Natural) - Spanish (Venezuela)"
+        }
+      ]
+    },
+    {
+      "dialect": "VE",
+      "name": "Microsoft Sebastian Online (Natural) - Spanish (Venezuela)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Sebastian Online (Natural) - Spanish (Venezuela)"
+        }
+      ]
+    }
+  ],
+  "fr": [
+    {
+      "dialect": "FR",
+      "name": "Google français",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Linux",
+          "browser": "Google Chrome",
+          "uri": "Google français"
+        },
+        [
+          {
+            "os": "Windows",
+            "browser": "Google Chrome",
+            "uri": "Google français"
+          }
+        ]
+      ]
+    },
+    {
+      "dialect": "BE",
+      "name": "Microsoft Charline Online (Natural) - French (Belgium)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Charline Online (Natural) - French (Belgium)"
+        }
+      ]
+    },
+    {
+      "dialect": "BE",
+      "name": "Microsoft Gerard Online (Natural) - French (Belgium)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Gerard Online (Natural) - French (Belgium)"
+        }
+      ]
+    },
+    {
+      "dialect": "CA",
+      "name": "Microsoft Antoine Online (Natural) - French (Canada)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Antoine Online (Natural) - French (Canada)"
+        }
+      ]
+    },
+    {
+      "dialect": "CA",
+      "name": "Microsoft Jean Online (Natural) - French (Canada)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Jean Online (Natural) - French (Canada)"
+        }
+      ]
+    },
+    {
+      "dialect": "CA",
+      "name": "Microsoft Sylvie Online (Natural) - French (Canada)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Sylvie Online (Natural) - French (Canada)"
+        }
+      ]
+    },
+    {
+      "dialect": "FR",
+      "name": "Microsoft Denise Online (Natural) - French (France)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Denise Online (Natural) - French (France)"
+        }
+      ]
+    },
+    {
+      "dialect": "FR",
+      "name": "Microsoft Eloise Online (Natural) - French (France)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Eloise Online (Natural) - French (France)"
+        }
+      ]
+    },
+    {
+      "dialect": "FR",
+      "name": "Microsoft Henri Online (Natural) - French (France)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Henri Online (Natural) - French (France)"
+        }
+      ]
+    },
+    {
+      "dialect": "CH",
+      "name": "Microsoft Ariane Online (Natural) - French (Switzerland)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Ariane Online (Natural) - French (Switzerland)"
+        }
+      ]
+    },
+    {
+      "dialect": "CH",
+      "name": "Microsoft Fabrice Online (Natural) - French (Switzerland)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Fabrice Online (Natural) - French (Switzerland)"
+        }
+      ]
+    }
+  ],
+  "hi": [
+    {
+      "dialect": "IN",
+      "name": "Google हिन्दी",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Linux",
+          "browser": "Google Chrome",
+          "uri": "Google हिन्दी"
+        },
+        [
+          {
+            "os": "Windows",
+            "browser": "Google Chrome",
+            "uri": "Google हिन्दी"
+          }
+        ]
+      ]
+    },
+    {
+      "dialect": "IN",
+      "name": "Microsoft Madhur Online (Natural) - Hindi (India)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Madhur Online (Natural) - Hindi (India)"
+        }
+      ]
+    },
+    {
+      "dialect": "IN",
+      "name": "Microsoft Swara Online (Natural) - Hindi (India)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Swara Online (Natural) - Hindi (India)"
+        }
+      ]
+    }
+  ],
+  "id": [
+    {
+      "dialect": "ID",
+      "name": "Google Bahasa Indonesia",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Linux",
+          "browser": "Google Chrome",
+          "uri": "Google Bahasa Indonesia"
+        },
+        [
+          {
+            "os": "Windows",
+            "browser": "Google Chrome",
+            "uri": "Google Bahasa Indonesia"
+          }
+        ]
+      ]
+    },
+    {
+      "dialect": "ID",
+      "name": "Microsoft Ardi Online (Natural) - Indonesian (Indonesia)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Ardi Online (Natural) - Indonesian (Indonesia)"
+        }
+      ]
+    },
+    {
+      "dialect": "ID",
+      "name": "Microsoft Gadis Online (Natural) - Indonesian (Indonesia)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Gadis Online (Natural) - Indonesian (Indonesia)"
+        }
+      ]
+    }
+  ],
+  "it": [
+    {
+      "dialect": "IT",
+      "name": "Google italiano",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Linux",
+          "browser": "Google Chrome",
+          "uri": "Google italiano"
+        },
+        [
+          {
+            "os": "Windows",
+            "browser": "Google Chrome",
+            "uri": "Google italiano"
+          }
+        ]
+      ]
+    },
+    {
+      "dialect": "IT",
+      "name": "Microsoft Diego Online (Natural) - Italian (Italy)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Diego Online (Natural) - Italian (Italy)"
+        }
+      ]
+    },
+    {
+      "dialect": "IT",
+      "name": "Microsoft Elsa Online (Natural) - Italian (Italy)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Elsa Online (Natural) - Italian (Italy)"
+        }
+      ]
+    },
+    {
+      "dialect": "IT",
+      "name": "Microsoft Isabella Online (Natural) - Italian (Italy)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Isabella Online (Natural) - Italian (Italy)"
+        }
+      ]
+    }
+  ],
+  "ja": [
+    {
+      "dialect": "JP",
+      "name": "Google 日本語",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Linux",
+          "browser": "Google Chrome",
+          "uri": "Google 日本語"
+        },
+        [
+          {
+            "os": "Windows",
+            "browser": "Google Chrome",
+            "uri": "Google 日本語"
+          }
+        ]
+      ]
+    },
+    {
+      "dialect": "JP",
+      "name": "Microsoft Keita Online (Natural) - Japanese (Japan)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Keita Online (Natural) - Japanese (Japan)"
+        }
+      ]
+    },
+    {
+      "dialect": "JP",
+      "name": "Microsoft Nanami Online (Natural) - Japanese (Japan)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Nanami Online (Natural) - Japanese (Japan)"
+        }
+      ]
+    }
+  ],
+  "ko": [
+    {
+      "dialect": "KR",
+      "name": "Google 한국의",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Linux",
+          "browser": "Google Chrome",
+          "uri": "Google 한국의"
+        },
+        [
+          {
+            "os": "Windows",
+            "browser": "Google Chrome",
+            "uri": "Google 한국의"
+          }
+        ]
+      ]
+    },
+    {
+      "dialect": "KR",
+      "name": "Microsoft InJoon Online (Natural) - Korean (Korea)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft InJoon Online (Natural) - Korean (Korea)"
+        }
+      ]
+    },
+    {
+      "dialect": "KR",
+      "name": "Microsoft SunHi Online (Natural) - Korean (Korea)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft SunHi Online (Natural) - Korean (Korea)"
+        }
+      ]
+    }
+  ],
+  "nl": [
+    {
+      "dialect": "NL",
+      "name": "Google Nederlands",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Linux",
+          "browser": "Google Chrome",
+          "uri": "Google Nederlands"
+        },
+        [
+          {
+            "os": "Windows",
+            "browser": "Google Chrome",
+            "uri": "Google Nederlands"
+          }
+        ]
+      ]
+    },
+    {
+      "dialect": "BE",
+      "name": "Microsoft Arnaud Online (Natural) - Dutch (Belgium)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Arnaud Online (Natural) - Dutch (Belgium)"
+        }
+      ]
+    },
+    {
+      "dialect": "BE",
+      "name": "Microsoft Dena Online (Natural) - Dutch (Belgium)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Dena Online (Natural) - Dutch (Belgium)"
+        }
+      ]
+    },
+    {
+      "dialect": "NL",
+      "name": "Microsoft Colette Online (Natural) - Dutch (Netherlands)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Colette Online (Natural) - Dutch (Netherlands)"
+        }
+      ]
+    },
+    {
+      "dialect": "NL",
+      "name": "Microsoft Fenna Online (Natural) - Dutch (Netherlands)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Fenna Online (Natural) - Dutch (Netherlands)"
+        }
+      ]
+    },
+    {
+      "dialect": "NL",
+      "name": "Microsoft Maarten Online (Natural) - Dutch (Netherlands)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Maarten Online (Natural) - Dutch (Netherlands)"
+        }
+      ]
+    }
+  ],
+  "pl": [
+    {
+      "dialect": "PL",
+      "name": "Google polski",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Linux",
+          "browser": "Google Chrome",
+          "uri": "Google polski"
+        },
+        [
+          {
+            "os": "Windows",
+            "browser": "Google Chrome",
+            "uri": "Google polski"
+          }
+        ]
+      ]
+    },
+    {
+      "dialect": "PL",
+      "name": "Microsoft Marek Online (Natural) - Polish (Poland)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Marek Online (Natural) - Polish (Poland)"
+        }
+      ]
+    },
+    {
+      "dialect": "PL",
+      "name": "Microsoft Zofia Online (Natural) - Polish (Poland)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Zofia Online (Natural) - Polish (Poland)"
+        }
+      ]
+    }
+  ],
+  "pt": [
+    {
+      "dialect": "BR",
+      "name": "Google português do Brasil",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Linux",
+          "browser": "Google Chrome",
+          "uri": "Google português do Brasil"
+        },
+        [
+          {
+            "os": "Windows",
+            "browser": "Google Chrome",
+            "uri": "Google português do Brasil"
+          }
+        ]
+      ]
+    },
+    {
+      "dialect": "BR",
+      "name": "Microsoft Antonio Online (Natural) - Portuguese (Brazil)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Antonio Online (Natural) - Portuguese (Brazil)"
+        }
+      ]
+    },
+    {
+      "dialect": "BR",
+      "name": "Microsoft Francisca Online (Natural) - Portuguese (Brazil)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Francisca Online (Natural) - Portuguese (Brazil)"
+        }
+      ]
+    },
+    {
+      "dialect": "PT",
+      "name": "Microsoft Duarte Online (Natural) - Portuguese (Portugal)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Duarte Online (Natural) - Portuguese (Portugal)"
+        }
+      ]
+    },
+    {
+      "dialect": "PT",
+      "name": "Microsoft Raquel Online (Natural) - Portuguese (Portugal)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Raquel Online (Natural) - Portuguese (Portugal)"
+        }
+      ]
+    }
+  ],
+  "ru": [
+    {
+      "dialect": "RU",
+      "name": "Google русский",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Linux",
+          "browser": "Google Chrome",
+          "uri": "Google русский"
+        },
+        [
+          {
+            "os": "Windows",
+            "browser": "Google Chrome",
+            "uri": "Google русский"
+          }
+        ]
+      ]
+    },
+    {
+      "dialect": "RU",
+      "name": "Microsoft Dmitry Online (Natural) - Russian (Russia)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Dmitry Online (Natural) - Russian (Russia)"
+        }
+      ]
+    },
+    {
+      "dialect": "RU",
+      "name": "Microsoft Svetlana Online (Natural) - Russian (Russia)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Svetlana Online (Natural) - Russian (Russia)"
+        }
+      ]
+    }
+  ],
+  "zh": [
+    {
+      "dialect": "CN",
+      "name": "Google 普通话（中国大陆）",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Linux",
+          "browser": "Google Chrome",
+          "uri": "Google 普通话（中国大陆）"
+        },
+        [
+          {
+            "os": "Windows",
+            "browser": "Google Chrome",
+            "uri": "Google 普通话（中国大陆）"
+          }
+        ]
+      ]
+    },
+    {
+      "dialect": "HK",
+      "name": "Google 粤語（香港）",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Linux",
+          "browser": "Google Chrome",
+          "uri": "Google 粤語（香港）"
+        },
+        [
+          {
+            "os": "Windows",
+            "browser": "Google Chrome",
+            "uri": "Google 粤語（香港）"
+          }
+        ]
+      ]
+    },
+    {
+      "dialect": "TW",
+      "name": "Google 國語（臺灣）",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Linux",
+          "browser": "Google Chrome",
+          "uri": "Google 國語（臺灣）"
+        },
+        [
+          {
+            "os": "Windows",
+            "browser": "Google Chrome",
+            "uri": "Google 國語（臺灣）"
+          }
+        ]
+      ]
+    },
+    {
+      "dialect": "HK",
+      "name": "Microsoft HiuGaai Online (Natural) - Chinese (Cantonese Traditional)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft HiuGaai Online (Natural) - Chinese (Cantonese Traditional)"
+        }
+      ]
+    },
+    {
+      "dialect": "HK",
+      "name": "Microsoft HiuMaan Online (Natural) - Chinese (Hong Kong)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft HiuMaan Online (Natural) - Chinese (Hong Kong)"
+        }
+      ]
+    },
+    {
+      "dialect": "HK",
+      "name": "Microsoft WanLung Online (Natural) - Chinese (Hong Kong)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft WanLung Online (Natural) - Chinese (Hong Kong)"
+        }
+      ]
+    },
+    {
+      "dialect": "CN",
+      "name": "Microsoft Xiaoxiao Online (Natural) - Chinese (Mainland)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Xiaoxiao Online (Natural) - Chinese (Mainland)"
+        }
+      ]
+    },
+    {
+      "dialect": "CN",
+      "name": "Microsoft Xiaoyi Online (Natural) - Chinese (Mainland)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Xiaoyi Online (Natural) - Chinese (Mainland)"
+        }
+      ]
+    },
+    {
+      "dialect": "CN",
+      "name": "Microsoft Yunjian Online (Natural) - Chinese (Mainland)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Yunjian Online (Natural) - Chinese (Mainland)"
+        }
+      ]
+    },
+    {
+      "dialect": "CN",
+      "name": "Microsoft Yunxi Online (Natural) - Chinese (Mainland)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Yunxi Online (Natural) - Chinese (Mainland)"
+        }
+      ]
+    },
+    {
+      "dialect": "CN",
+      "name": "Microsoft Yunxia Online (Natural) - Chinese (Mainland)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Yunxia Online (Natural) - Chinese (Mainland)"
+        }
+      ]
+    },
+    {
+      "dialect": "CN",
+      "name": "Microsoft Yunyang Online (Natural) - Chinese (Mainland)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Yunyang Online (Natural) - Chinese (Mainland)"
+        }
+      ]
+    },
+    {
+      "dialect": "CN-liaoning",
+      "name": "Microsoft Xiaobei Online (Natural) - Chinese (Northeastern Mandarin)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Xiaobei Online (Natural) - Chinese (Northeastern Mandarin)"
+        }
+      ]
+    },
+    {
+      "dialect": "TW",
+      "name": "Microsoft HsiaoChen Online (Natural) - Chinese (Taiwan)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft HsiaoChen Online (Natural) - Chinese (Taiwan)"
+        }
+      ]
+    },
+    {
+      "dialect": "TW",
+      "name": "Microsoft YunJhe Online (Natural) - Chinese (Taiwan)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft YunJhe Online (Natural) - Chinese (Taiwan)"
+        }
+      ]
+    },
+    {
+      "dialect": "TW",
+      "name": "Microsoft HsiaoYu Online (Natural) - Chinese (Taiwanese Mandarin)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft HsiaoYu Online (Natural) - Chinese (Taiwanese Mandarin)"
+        }
+      ]
+    },
+    {
+      "dialect": "CN-shaanxi",
+      "name": "Microsoft Xiaoni Online (Natural) - Chinese (Zhongyuan Mandarin Shaanxi)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Xiaoni Online (Natural) - Chinese (Zhongyuan Mandarin Shaanxi)"
+        }
+      ]
+    }
+  ],
+  "af": [
+    {
+      "dialect": "ZA",
+      "name": "Microsoft Adri Online (Natural) - Afrikaans (South Africa)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Adri Online (Natural) - Afrikaans (South Africa)"
+        }
+      ]
+    },
+    {
+      "dialect": "ZA",
+      "name": "Microsoft Willem Online (Natural) - Afrikaans (South Africa)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Willem Online (Natural) - Afrikaans (South Africa)"
+        }
+      ]
+    }
+  ],
+  "sq": [
+    {
+      "dialect": "AL",
+      "name": "Microsoft Anila Online (Natural) - Albanian (Albania)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Anila Online (Natural) - Albanian (Albania)"
+        }
+      ]
+    },
+    {
+      "dialect": "AL",
+      "name": "Microsoft Ilir Online (Natural) - Albanian (Albania)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Ilir Online (Natural) - Albanian (Albania)"
+        }
+      ]
+    }
+  ],
+  "am": [
+    {
+      "dialect": "ET",
+      "name": "Microsoft Ameha Online (Natural) - Amharic (Ethiopia)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Ameha Online (Natural) - Amharic (Ethiopia)"
+        }
+      ]
+    },
+    {
+      "dialect": "ET",
+      "name": "Microsoft Mekdes Online (Natural) - Amharic (Ethiopia)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Mekdes Online (Natural) - Amharic (Ethiopia)"
+        }
+      ]
+    }
+  ],
+  "ar": [
+    {
+      "dialect": "DZ",
+      "name": "Microsoft Amina Online (Natural) - Arabic (Algeria)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Amina Online (Natural) - Arabic (Algeria)"
+        }
+      ]
+    },
+    {
+      "dialect": "DZ",
+      "name": "Microsoft Ismael Online (Natural) - Arabic (Algeria)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Ismael Online (Natural) - Arabic (Algeria)"
+        }
+      ]
+    },
+    {
+      "dialect": "BH",
+      "name": "Microsoft Ali Online (Natural) - Arabic (Bahrain)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Ali Online (Natural) - Arabic (Bahrain)"
+        }
+      ]
+    },
+    {
+      "dialect": "BH",
+      "name": "Microsoft Laila Online (Natural) - Arabic (Bahrain)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Laila Online (Natural) - Arabic (Bahrain)"
+        }
+      ]
+    },
+    {
+      "dialect": "EG",
+      "name": "Microsoft Salma Online (Natural) - Arabic (Egypt)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Salma Online (Natural) - Arabic (Egypt)"
+        }
+      ]
+    },
+    {
+      "dialect": "EG",
+      "name": "Microsoft Shakir Online (Natural) - Arabic (Egypt)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Shakir Online (Natural) - Arabic (Egypt)"
+        }
+      ]
+    },
+    {
+      "dialect": "IQ",
+      "name": "Microsoft Bassel Online (Natural) - Arabic (Iraq)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Bassel Online (Natural) - Arabic (Iraq)"
+        }
+      ]
+    },
+    {
+      "dialect": "IQ",
+      "name": "Microsoft Rana Online (Natural) - Arabic (Iraq)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Rana Online (Natural) - Arabic (Iraq)"
+        }
+      ]
+    },
+    {
+      "dialect": "JO",
+      "name": "Microsoft Sana Online (Natural) - Arabic (Jordan)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Sana Online (Natural) - Arabic (Jordan)"
+        }
+      ]
+    },
+    {
+      "dialect": "JO",
+      "name": "Microsoft Taim Online (Natural) - Arabic (Jordan)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Taim Online (Natural) - Arabic (Jordan)"
+        }
+      ]
+    },
+    {
+      "dialect": "KW",
+      "name": "Microsoft Fahed Online (Natural) - Arabic (Kuwait)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Fahed Online (Natural) - Arabic (Kuwait)"
+        }
+      ]
+    },
+    {
+      "dialect": "KW",
+      "name": "Microsoft Noura Online (Natural) - Arabic (Kuwait)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Noura Online (Natural) - Arabic (Kuwait)"
+        }
+      ]
+    },
+    {
+      "dialect": "LB",
+      "name": "Microsoft Layla Online (Natural) - Arabic (Lebanon)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Layla Online (Natural) - Arabic (Lebanon)"
+        }
+      ]
+    },
+    {
+      "dialect": "LB",
+      "name": "Microsoft Rami Online (Natural) - Arabic (Lebanon)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Rami Online (Natural) - Arabic (Lebanon)"
+        }
+      ]
+    },
+    {
+      "dialect": "LY",
+      "name": "Microsoft Iman Online (Natural) - Arabic (Libya)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Iman Online (Natural) - Arabic (Libya)"
+        }
+      ]
+    },
+    {
+      "dialect": "LY",
+      "name": "Microsoft Omar Online (Natural) - Arabic (Libya)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Omar Online (Natural) - Arabic (Libya)"
+        }
+      ]
+    },
+    {
+      "dialect": "MA",
+      "name": "Microsoft Jamal Online (Natural) - Arabic (Morocco)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Jamal Online (Natural) - Arabic (Morocco)"
+        }
+      ]
+    },
+    {
+      "dialect": "MA",
+      "name": "Microsoft Mouna Online (Natural) - Arabic (Morocco)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Mouna Online (Natural) - Arabic (Morocco)"
+        }
+      ]
+    },
+    {
+      "dialect": "OM",
+      "name": "Microsoft Abdullah Online (Natural) - Arabic (Oman)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Abdullah Online (Natural) - Arabic (Oman)"
+        }
+      ]
+    },
+    {
+      "dialect": "OM",
+      "name": "Microsoft Aysha Online (Natural) - Arabic (Oman)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Aysha Online (Natural) - Arabic (Oman)"
+        }
+      ]
+    },
+    {
+      "dialect": "QA",
+      "name": "Microsoft Amal Online (Natural) - Arabic (Qatar)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Amal Online (Natural) - Arabic (Qatar)"
+        }
+      ]
+    },
+    {
+      "dialect": "QA",
+      "name": "Microsoft Moaz Online (Natural) - Arabic (Qatar)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Moaz Online (Natural) - Arabic (Qatar)"
+        }
+      ]
+    },
+    {
+      "dialect": "SA",
+      "name": "Microsoft Hamed Online (Natural) - Arabic (Saudi Arabia)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Hamed Online (Natural) - Arabic (Saudi Arabia)"
+        }
+      ]
+    },
+    {
+      "dialect": "SA",
+      "name": "Microsoft Zariyah Online (Natural) - Arabic (Saudi Arabia)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Zariyah Online (Natural) - Arabic (Saudi Arabia)"
+        }
+      ]
+    },
+    {
+      "dialect": "SY",
+      "name": "Microsoft Amany Online (Natural) - Arabic (Syria)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Amany Online (Natural) - Arabic (Syria)"
+        }
+      ]
+    },
+    {
+      "dialect": "SY",
+      "name": "Microsoft Laith Online (Natural) - Arabic (Syria)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Laith Online (Natural) - Arabic (Syria)"
+        }
+      ]
+    },
+    {
+      "dialect": "TN",
+      "name": "Microsoft Hedi Online (Natural) - Arabic (Tunisia)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Hedi Online (Natural) - Arabic (Tunisia)"
+        }
+      ]
+    },
+    {
+      "dialect": "TN",
+      "name": "Microsoft Reem Online (Natural) - Arabic (Tunisia)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Reem Online (Natural) - Arabic (Tunisia)"
+        }
+      ]
+    },
+    {
+      "dialect": "AE",
+      "name": "Microsoft Fatima Online (Natural) - Arabic (United Arab Emirates)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Fatima Online (Natural) - Arabic (United Arab Emirates)"
+        }
+      ]
+    },
+    {
+      "dialect": "AE",
+      "name": "Microsoft Hamdan Online (Natural) - Arabic (United Arab Emirates)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Hamdan Online (Natural) - Arabic (United Arab Emirates)"
+        }
+      ]
+    },
+    {
+      "dialect": "YE",
+      "name": "Microsoft Maryam Online (Natural) - Arabic (Yemen)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Maryam Online (Natural) - Arabic (Yemen)"
+        }
+      ]
+    },
+    {
+      "dialect": "YE",
+      "name": "Microsoft Saleh Online (Natural) - Arabic (Yemen)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Saleh Online (Natural) - Arabic (Yemen)"
+        }
+      ]
+    }
+  ],
+  "az": [
+    {
+      "dialect": "AZ",
+      "name": "Microsoft Babek Online (Natural) - Azerbaijani (Azerbaijan)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Babek Online (Natural) - Azerbaijani (Azerbaijan)"
+        }
+      ]
+    },
+    {
+      "dialect": "AZ",
+      "name": "Microsoft Banu Online (Natural) - Azerbaijani (Azerbaijan)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Banu Online (Natural) - Azerbaijani (Azerbaijan)"
+        }
+      ]
+    }
+  ],
+  "bn": [
+    {
+      "dialect": "BD",
+      "name": "Microsoft Nabanita Online (Natural) - Bangla (Bangladesh)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Nabanita Online (Natural) - Bangla (Bangladesh)"
+        }
+      ]
+    },
+    {
+      "dialect": "BD",
+      "name": "Microsoft Pradeep Online (Natural) - Bangla (Bangladesh)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Pradeep Online (Natural) - Bangla (Bangladesh)"
+        }
+      ]
+    },
+    {
+      "dialect": "IN",
+      "name": "Microsoft Bashkar Online (Natural) - Bangla (India)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Bashkar Online (Natural) - Bangla (India)"
+        }
+      ]
+    },
+    {
+      "dialect": "IN",
+      "name": "Microsoft Tanishaa Online (Natural) - Bengali (India)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Tanishaa Online (Natural) - Bengali (India)"
+        }
+      ]
+    }
+  ],
+  "bs": [
+    {
+      "dialect": "BA",
+      "name": "Microsoft Goran Online (Natural) - Bosnian (Bosnia)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Goran Online (Natural) - Bosnian (Bosnia)"
+        }
+      ]
+    },
+    {
+      "dialect": "BA",
+      "name": "Microsoft Vesna Online (Natural) - Bosnian (Bosnia)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Vesna Online (Natural) - Bosnian (Bosnia)"
+        }
+      ]
+    }
+  ],
+  "bg": [
+    {
+      "dialect": "BG",
+      "name": "Microsoft Borislav Online (Natural) - Bulgarian (Bulgaria)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Borislav Online (Natural) - Bulgarian (Bulgaria)"
+        }
+      ]
+    },
+    {
+      "dialect": "BG",
+      "name": "Microsoft Kalina Online (Natural) - Bulgarian (Bulgaria)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Kalina Online (Natural) - Bulgarian (Bulgaria)"
+        }
+      ]
+    }
+  ],
+  "my": [
+    {
+      "dialect": "MM",
+      "name": "Microsoft Nilar Online (Natural) - Burmese (Myanmar)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Nilar Online (Natural) - Burmese (Myanmar)"
+        }
+      ]
+    },
+    {
+      "dialect": "MM",
+      "name": "Microsoft Thiha Online (Natural) - Burmese (Myanmar)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Thiha Online (Natural) - Burmese (Myanmar)"
+        }
+      ]
+    }
+  ],
+  "ca": [
+    {
+      "dialect": "ES",
+      "name": "Microsoft Enric Online (Natural) - Catalan (Spain)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Enric Online (Natural) - Catalan (Spain)"
+        }
+      ]
+    },
+    {
+      "dialect": "ES",
+      "name": "Microsoft Joana Online (Natural) - Catalan (Spain)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Joana Online (Natural) - Catalan (Spain)"
+        }
+      ]
+    }
+  ],
+  "hr": [
+    {
+      "dialect": "HR",
+      "name": "Microsoft Gabrijela Online (Natural) - Croatian (Croatia)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Gabrijela Online (Natural) - Croatian (Croatia)"
+        }
+      ]
+    },
+    {
+      "dialect": "HR",
+      "name": "Microsoft Srecko Online (Natural) - Croatian (Croatia)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Srecko Online (Natural) - Croatian (Croatia)"
+        }
+      ]
+    }
+  ],
+  "cs": [
+    {
+      "dialect": "CZ",
+      "name": "Microsoft Antonin Online (Natural) - Czech (Czech)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Antonin Online (Natural) - Czech (Czech)"
+        }
+      ]
+    },
+    {
+      "dialect": "CZ",
+      "name": "Microsoft Vlasta Online (Natural) - Czech (Czech)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Vlasta Online (Natural) - Czech (Czech)"
+        }
+      ]
+    }
+  ],
+  "da": [
+    {
+      "dialect": "DK",
+      "name": "Microsoft Christel Online (Natural) - Danish (Denmark)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Christel Online (Natural) - Danish (Denmark)"
+        }
+      ]
+    },
+    {
+      "dialect": "DK",
+      "name": "Microsoft Jeppe Online (Natural) - Danish (Denmark)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Jeppe Online (Natural) - Danish (Denmark)"
+        }
+      ]
+    }
+  ],
+  "et": [
+    {
+      "dialect": "EE",
+      "name": "Microsoft Anu Online (Natural) - Estonian (Estonia)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Anu Online (Natural) - Estonian (Estonia)"
+        }
+      ]
+    },
+    {
+      "dialect": "EE",
+      "name": "Microsoft Kert Online (Natural) - Estonian (Estonia)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Kert Online (Natural) - Estonian (Estonia)"
+        }
+      ]
+    }
+  ],
+  "fil": [
+    {
+      "dialect": "PH",
+      "name": "Microsoft Angelo Online (Natural) - Filipino (Philippines)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Angelo Online (Natural) - Filipino (Philippines)"
+        }
+      ]
+    },
+    {
+      "dialect": "PH",
+      "name": "Microsoft Blessica Online (Natural) - Filipino (Philippines)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Blessica Online (Natural) - Filipino (Philippines)"
+        }
+      ]
+    }
+  ],
+  "fi": [
+    {
+      "dialect": "FI",
+      "name": "Microsoft Harri Online (Natural) - Finnish (Finland)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Harri Online (Natural) - Finnish (Finland)"
+        }
+      ]
+    },
+    {
+      "dialect": "FI",
+      "name": "Microsoft Noora Online (Natural) - Finnish (Finland)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Noora Online (Natural) - Finnish (Finland)"
+        }
+      ]
+    }
+  ],
+  "gl": [
+    {
+      "dialect": "ES",
+      "name": "Microsoft Roi Online (Natural) - Galician (Spain)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Roi Online (Natural) - Galician (Spain)"
+        }
+      ]
+    },
+    {
+      "dialect": "ES",
+      "name": "Microsoft Sabela Online (Natural) - Galician (Spain)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Sabela Online (Natural) - Galician (Spain)"
+        }
+      ]
+    }
+  ],
+  "ka": [
+    {
+      "dialect": "GE",
+      "name": "Microsoft Eka Online (Natural) - Georgian (Georgia)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Eka Online (Natural) - Georgian (Georgia)"
+        }
+      ]
+    },
+    {
+      "dialect": "GE",
+      "name": "Microsoft Giorgi Online (Natural) - Georgian (Georgia)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Giorgi Online (Natural) - Georgian (Georgia)"
+        }
+      ]
+    }
+  ],
+  "el": [
+    {
+      "dialect": "GR",
+      "name": "Microsoft Athina Online (Natural) - Greek (Greece)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Athina Online (Natural) - Greek (Greece)"
+        }
+      ]
+    },
+    {
+      "dialect": "GR",
+      "name": "Microsoft Nestoras Online (Natural) - Greek (Greece)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Nestoras Online (Natural) - Greek (Greece)"
+        }
+      ]
+    }
+  ],
+  "gu": [
+    {
+      "dialect": "IN",
+      "name": "Microsoft Dhwani Online (Natural) - Gujarati (India)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Dhwani Online (Natural) - Gujarati (India)"
+        }
+      ]
+    },
+    {
+      "dialect": "IN",
+      "name": "Microsoft Niranjan Online (Natural) - Gujarati (India)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Niranjan Online (Natural) - Gujarati (India)"
+        }
+      ]
+    }
+  ],
+  "he": [
+    {
+      "dialect": "IL",
+      "name": "Microsoft Avri Online (Natural) - Hebrew (Israel)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Avri Online (Natural) - Hebrew (Israel)"
+        }
+      ]
+    },
+    {
+      "dialect": "IL",
+      "name": "Microsoft Hila Online (Natural) - Hebrew (Israel)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Hila Online (Natural) - Hebrew (Israel)"
+        }
+      ]
+    }
+  ],
+  "hu": [
+    {
+      "dialect": "HU",
+      "name": "Microsoft Noemi Online (Natural) - Hungarian (Hungary)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Noemi Online (Natural) - Hungarian (Hungary)"
+        }
+      ]
+    },
+    {
+      "dialect": "HU",
+      "name": "Microsoft Tamas Online (Natural) - Hungarian (Hungary)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Tamas Online (Natural) - Hungarian (Hungary)"
+        }
+      ]
+    }
+  ],
+  "is": [
+    {
+      "dialect": "IS",
+      "name": "Microsoft Gudrun Online (Natural) - Icelandic (Iceland)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Gudrun Online (Natural) - Icelandic (Iceland)"
+        }
+      ]
+    },
+    {
+      "dialect": "IS",
+      "name": "Microsoft Gunnar Online (Natural) - Icelandic (Iceland)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Gunnar Online (Natural) - Icelandic (Iceland)"
+        }
+      ]
+    }
+  ],
+  "ga": [
+    {
+      "dialect": "IE",
+      "name": "Microsoft Colm Online (Natural) - Irish (Ireland)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Colm Online (Natural) - Irish (Ireland)"
+        }
+      ]
+    },
+    {
+      "dialect": "IE",
+      "name": "Microsoft Orla Online (Natural) - Irish (Ireland)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Orla Online (Natural) - Irish (Ireland)"
+        }
+      ]
+    }
+  ],
+  "jv": [
+    {
+      "dialect": "ID",
+      "name": "Microsoft Dimas Online (Natural) - Javanese (Indonesia)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Dimas Online (Natural) - Javanese (Indonesia)"
+        }
+      ]
+    },
+    {
+      "dialect": "ID",
+      "name": "Microsoft Siti Online (Natural) - Javanese (Indonesia)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Siti Online (Natural) - Javanese (Indonesia)"
+        }
+      ]
+    }
+  ],
+  "kn": [
+    {
+      "dialect": "IN",
+      "name": "Microsoft Gagan Online (Natural) - Kannada (India)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Gagan Online (Natural) - Kannada (India)"
+        }
+      ]
+    },
+    {
+      "dialect": "IN",
+      "name": "Microsoft Sapna Online (Natural) - Kannada (India)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Sapna Online (Natural) - Kannada (India)"
+        }
+      ]
+    }
+  ],
+  "kk": [
+    {
+      "dialect": "KZ",
+      "name": "Microsoft Aigul Online (Natural) - Kazakh (Kazakhstan)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Aigul Online (Natural) - Kazakh (Kazakhstan)"
+        }
+      ]
+    },
+    {
+      "dialect": "KZ",
+      "name": "Microsoft Daulet Online (Natural) - Kazakh (Kazakhstan)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Daulet Online (Natural) - Kazakh (Kazakhstan)"
+        }
+      ]
+    }
+  ],
+  "km": [
+    {
+      "dialect": "KH",
+      "name": "Microsoft Piseth Online (Natural) - Khmer (Cambodia)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Piseth Online (Natural) - Khmer (Cambodia)"
+        }
+      ]
+    },
+    {
+      "dialect": "KH",
+      "name": "Microsoft Sreymom Online (Natural) - Khmer (Cambodia)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Sreymom Online (Natural) - Khmer (Cambodia)"
+        }
+      ]
+    }
+  ],
+  "lo": [
+    {
+      "dialect": "LA",
+      "name": "Microsoft Chanthavong Online (Natural) - Lao (Laos)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Chanthavong Online (Natural) - Lao (Laos)"
+        }
+      ]
+    },
+    {
+      "dialect": "LA",
+      "name": "Microsoft Keomany Online (Natural) - Lao (Laos)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Keomany Online (Natural) - Lao (Laos)"
+        }
+      ]
+    }
+  ],
+  "lv": [
+    {
+      "dialect": "LV",
+      "name": "Microsoft Everita Online (Natural) - Latvian (Latvia)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Everita Online (Natural) - Latvian (Latvia)"
+        }
+      ]
+    },
+    {
+      "dialect": "LV",
+      "name": "Microsoft Nils Online (Natural) - Latvian (Latvia)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Nils Online (Natural) - Latvian (Latvia)"
+        }
+      ]
+    }
+  ],
+  "lt": [
+    {
+      "dialect": "LT",
+      "name": "Microsoft Leonas Online (Natural) - Lithuanian (Lithuania)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Leonas Online (Natural) - Lithuanian (Lithuania)"
+        }
+      ]
+    },
+    {
+      "dialect": "LT",
+      "name": "Microsoft Ona Online (Natural) - Lithuanian (Lithuania)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Ona Online (Natural) - Lithuanian (Lithuania)"
+        }
+      ]
+    }
+  ],
+  "mk": [
+    {
+      "dialect": "MK",
+      "name": "Microsoft Aleksandar Online (Natural) - Macedonian (Republic of North Macedonia)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Aleksandar Online (Natural) - Macedonian (Republic of North Macedonia)"
+        }
+      ]
+    },
+    {
+      "dialect": "MK",
+      "name": "Microsoft Marija Online (Natural) - Macedonian (Republic of North Macedonia)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Marija Online (Natural) - Macedonian (Republic of North Macedonia)"
+        }
+      ]
+    }
+  ],
+  "ms": [
+    {
+      "dialect": "MY",
+      "name": "Microsoft Osman Online (Natural) - Malay (Malaysia)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Osman Online (Natural) - Malay (Malaysia)"
+        }
+      ]
+    },
+    {
+      "dialect": "MY",
+      "name": "Microsoft Yasmin Online (Natural) - Malay (Malaysia)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Yasmin Online (Natural) - Malay (Malaysia)"
+        }
+      ]
+    }
+  ],
+  "ml": [
+    {
+      "dialect": "IN",
+      "name": "Microsoft Midhun Online (Natural) - Malayalam (India)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Midhun Online (Natural) - Malayalam (India)"
+        }
+      ]
+    },
+    {
+      "dialect": "IN",
+      "name": "Microsoft Sobhana Online (Natural) - Malayalam (India)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Sobhana Online (Natural) - Malayalam (India)"
+        }
+      ]
+    }
+  ],
+  "mt": [
+    {
+      "dialect": "MT",
+      "name": "Microsoft Grace Online (Natural) - Maltese (Malta)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Grace Online (Natural) - Maltese (Malta)"
+        }
+      ]
+    },
+    {
+      "dialect": "MT",
+      "name": "Microsoft Joseph Online (Natural) - Maltese (Malta)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Joseph Online (Natural) - Maltese (Malta)"
+        }
+      ]
+    }
+  ],
+  "mr": [
+    {
+      "dialect": "IN",
+      "name": "Microsoft Aarohi Online (Natural) - Marathi (India)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Aarohi Online (Natural) - Marathi (India)"
+        }
+      ]
+    },
+    {
+      "dialect": "IN",
+      "name": "Microsoft Manohar Online (Natural) - Marathi (India)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Manohar Online (Natural) - Marathi (India)"
+        }
+      ]
+    }
+  ],
+  "mn": [
+    {
+      "dialect": "MN",
+      "name": "Microsoft Bataa Online (Natural) - Mongolian (Mongolia)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Bataa Online (Natural) - Mongolian (Mongolia)"
+        }
+      ]
+    },
+    {
+      "dialect": "MN",
+      "name": "Microsoft Yesui Online (Natural) - Mongolian (Mongolia)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Yesui Online (Natural) - Mongolian (Mongolia)"
+        }
+      ]
+    }
+  ],
+  "ne": [
+    {
+      "dialect": "NP",
+      "name": "Microsoft Hemkala Online (Natural) - Nepali (Nepal)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Hemkala Online (Natural) - Nepali (Nepal)"
+        }
+      ]
+    },
+    {
+      "dialect": "NP",
+      "name": "Microsoft Sagar Online (Natural) - Nepali (Nepal)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Sagar Online (Natural) - Nepali (Nepal)"
+        }
+      ]
+    }
+  ],
+  "nb": [
+    {
+      "dialect": "NO",
+      "name": "Microsoft Finn Online (Natural) - Norwegian (Bokmål Norway)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Finn Online (Natural) - Norwegian (Bokmål Norway)"
+        }
+      ]
+    },
+    {
+      "dialect": "NO",
+      "name": "Microsoft Pernille Online (Natural) - Norwegian (Bokmål, Norway)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Pernille Online (Natural) - Norwegian (Bokmål, Norway)"
+        }
+      ]
+    }
+  ],
+  "ps": [
+    {
+      "dialect": "AF",
+      "name": "Microsoft GulNawaz Online (Natural) - Pashto (Afghanistan)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft GulNawaz Online (Natural) - Pashto (Afghanistan)"
+        }
+      ]
+    },
+    {
+      "dialect": "AF",
+      "name": "Microsoft Latifa Online (Natural) - Pashto (Afghanistan)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Latifa Online (Natural) - Pashto (Afghanistan)"
+        }
+      ]
+    }
+  ],
+  "fa": [
+    {
+      "dialect": "IR",
+      "name": "Microsoft Dilara Online (Natural) - Persian (Iran)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Dilara Online (Natural) - Persian (Iran)"
+        }
+      ]
+    },
+    {
+      "dialect": "IR",
+      "name": "Microsoft Farid Online (Natural) - Persian (Iran)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Farid Online (Natural) - Persian (Iran)"
+        }
+      ]
+    }
+  ],
+  "ro": [
+    {
+      "dialect": "RO",
+      "name": "Microsoft Alina Online (Natural) - Romanian (Romania)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Alina Online (Natural) - Romanian (Romania)"
+        }
+      ]
+    },
+    {
+      "dialect": "RO",
+      "name": "Microsoft Emil Online (Natural) - Romanian (Romania)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Emil Online (Natural) - Romanian (Romania)"
+        }
+      ]
+    }
+  ],
+  "sr": [
+    {
+      "dialect": "RS",
+      "name": "Microsoft Nicholas Online (Natural) - Serbian (Serbia)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Nicholas Online (Natural) - Serbian (Serbia)"
+        }
+      ]
+    },
+    {
+      "dialect": "RS",
+      "name": "Microsoft Sophie Online (Natural) - Serbian (Serbia)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Sophie Online (Natural) - Serbian (Serbia)"
+        }
+      ]
+    }
+  ],
+  "si": [
+    {
+      "dialect": "LK",
+      "name": "Microsoft Sameera Online (Natural) - Sinhala (Sri Lanka)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Sameera Online (Natural) - Sinhala (Sri Lanka)"
+        }
+      ]
+    },
+    {
+      "dialect": "LK",
+      "name": "Microsoft Thilini Online (Natural) - Sinhala (Sri Lanka)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Thilini Online (Natural) - Sinhala (Sri Lanka)"
+        }
+      ]
+    }
+  ],
+  "sk": [
+    {
+      "dialect": "SK",
+      "name": "Microsoft Lukas Online (Natural) - Slovak (Slovakia)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Lukas Online (Natural) - Slovak (Slovakia)"
+        }
+      ]
+    },
+    {
+      "dialect": "SK",
+      "name": "Microsoft Viktoria Online (Natural) - Slovak (Slovakia)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Viktoria Online (Natural) - Slovak (Slovakia)"
+        }
+      ]
+    }
+  ],
+  "sl": [
+    {
+      "dialect": "SI",
+      "name": "Microsoft Petra Online (Natural) - Slovenian (Slovenia)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Petra Online (Natural) - Slovenian (Slovenia)"
+        }
+      ]
+    },
+    {
+      "dialect": "SI",
+      "name": "Microsoft Rok Online (Natural) - Slovenian (Slovenia)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Rok Online (Natural) - Slovenian (Slovenia)"
+        }
+      ]
+    }
+  ],
+  "so": [
+    {
+      "dialect": "SO",
+      "name": "Microsoft Muuse Online (Natural) - Somali (Somalia)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Muuse Online (Natural) - Somali (Somalia)"
+        }
+      ]
+    },
+    {
+      "dialect": "SO",
+      "name": "Microsoft Ubax Online (Natural) - Somali (Somalia)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Ubax Online (Natural) - Somali (Somalia)"
+        }
+      ]
+    }
+  ],
+  "su": [
+    {
+      "dialect": "ID",
+      "name": "Microsoft Jajang Online (Natural) - Sundanese (Indonesia)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Jajang Online (Natural) - Sundanese (Indonesia)"
+        }
+      ]
+    },
+    {
+      "dialect": "ID",
+      "name": "Microsoft Tuti Online (Natural) - Sundanese (Indonesia)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Tuti Online (Natural) - Sundanese (Indonesia)"
+        }
+      ]
+    }
+  ],
+  "sw": [
+    {
+      "dialect": "KE",
+      "name": "Microsoft Rafiki Online (Natural) - Swahili (Kenya)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Rafiki Online (Natural) - Swahili (Kenya)"
+        }
+      ]
+    },
+    {
+      "dialect": "KE",
+      "name": "Microsoft Zuri Online (Natural) - Swahili (Kenya)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Zuri Online (Natural) - Swahili (Kenya)"
+        }
+      ]
+    },
+    {
+      "dialect": "TZ",
+      "name": "Microsoft Daudi Online (Natural) - Swahili (Tanzania)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Daudi Online (Natural) - Swahili (Tanzania)"
+        }
+      ]
+    },
+    {
+      "dialect": "TZ",
+      "name": "Microsoft Rehema Online (Natural) - Swahili (Tanzania)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Rehema Online (Natural) - Swahili (Tanzania)"
+        }
+      ]
+    }
+  ],
+  "sv": [
+    {
+      "dialect": "SE",
+      "name": "Microsoft Mattias Online (Natural) - Swedish (Sweden)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Mattias Online (Natural) - Swedish (Sweden)"
+        }
+      ]
+    },
+    {
+      "dialect": "SE",
+      "name": "Microsoft Sofie Online (Natural) - Swedish (Sweden)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Sofie Online (Natural) - Swedish (Sweden)"
+        }
+      ]
+    }
+  ],
+  "ta": [
+    {
+      "dialect": "IN",
+      "name": "Microsoft Pallavi Online (Natural) - Tamil (India)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Pallavi Online (Natural) - Tamil (India)"
+        }
+      ]
+    },
+    {
+      "dialect": "IN",
+      "name": "Microsoft Valluvar Online (Natural) - Tamil (India)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Valluvar Online (Natural) - Tamil (India)"
+        }
+      ]
+    },
+    {
+      "dialect": "MY",
+      "name": "Microsoft Kani Online (Natural) - Tamil (Malaysia)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Kani Online (Natural) - Tamil (Malaysia)"
+        }
+      ]
+    },
+    {
+      "dialect": "MY",
+      "name": "Microsoft Surya Online (Natural) - Tamil (Malaysia)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Surya Online (Natural) - Tamil (Malaysia)"
+        }
+      ]
+    },
+    {
+      "dialect": "SG",
+      "name": "Microsoft Anbu Online (Natural) - Tamil (Singapore)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Anbu Online (Natural) - Tamil (Singapore)"
+        }
+      ]
+    },
+    {
+      "dialect": "SG",
+      "name": "Microsoft Venba Online (Natural) - Tamil (Singapore)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Venba Online (Natural) - Tamil (Singapore)"
+        }
+      ]
+    },
+    {
+      "dialect": "LK",
+      "name": "Microsoft Kumar Online (Natural) - Tamil (Sri Lanka)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Kumar Online (Natural) - Tamil (Sri Lanka)"
+        }
+      ]
+    },
+    {
+      "dialect": "LK",
+      "name": "Microsoft Saranya Online (Natural) - Tamil (Sri Lanka)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Saranya Online (Natural) - Tamil (Sri Lanka)"
+        }
+      ]
+    }
+  ],
+  "te": [
+    {
+      "dialect": "IN",
+      "name": "Microsoft Mohan Online (Natural) - Telugu (India)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Mohan Online (Natural) - Telugu (India)"
+        }
+      ]
+    },
+    {
+      "dialect": "IN",
+      "name": "Microsoft Shruti Online (Natural) - Telugu (India)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Shruti Online (Natural) - Telugu (India)"
+        }
+      ]
+    }
+  ],
+  "th": [
+    {
+      "dialect": "TH",
+      "name": "Microsoft Niwat Online (Natural) - Thai (Thailand)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Niwat Online (Natural) - Thai (Thailand)"
+        }
+      ]
+    },
+    {
+      "dialect": "TH",
+      "name": "Microsoft Premwadee Online (Natural) - Thai (Thailand)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Premwadee Online (Natural) - Thai (Thailand)"
+        }
+      ]
+    }
+  ],
+  "tr": [
+    {
+      "dialect": "TR",
+      "name": "Microsoft Ahmet Online (Natural) - Turkish (Turkey)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Ahmet Online (Natural) - Turkish (Turkey)"
+        }
+      ]
+    },
+    {
+      "dialect": "TR",
+      "name": "Microsoft Emel Online (Natural) - Turkish (Turkey)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Emel Online (Natural) - Turkish (Turkey)"
+        }
+      ]
+    }
+  ],
+  "uk": [
+    {
+      "dialect": "UA",
+      "name": "Microsoft Ostap Online (Natural) - Ukrainian (Ukraine)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Ostap Online (Natural) - Ukrainian (Ukraine)"
+        }
+      ]
+    },
+    {
+      "dialect": "UA",
+      "name": "Microsoft Polina Online (Natural) - Ukrainian (Ukraine)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Polina Online (Natural) - Ukrainian (Ukraine)"
+        }
+      ]
+    }
+  ],
+  "ur": [
+    {
+      "dialect": "IN",
+      "name": "Microsoft Gul Online (Natural) - Urdu (India)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Gul Online (Natural) - Urdu (India)"
+        }
+      ]
+    },
+    {
+      "dialect": "IN",
+      "name": "Microsoft Salman Online (Natural) - Urdu (India)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Salman Online (Natural) - Urdu (India)"
+        }
+      ]
+    },
+    {
+      "dialect": "PK",
+      "name": "Microsoft Asad Online (Natural) - Urdu (Pakistan)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Asad Online (Natural) - Urdu (Pakistan)"
+        }
+      ]
+    },
+    {
+      "dialect": "PK",
+      "name": "Microsoft Uzma Online (Natural) - Urdu (Pakistan)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Uzma Online (Natural) - Urdu (Pakistan)"
+        }
+      ]
+    }
+  ],
+  "uz": [
+    {
+      "dialect": "UZ",
+      "name": "Microsoft Madina Online (Natural) - Uzbek (Uzbekistan)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Madina Online (Natural) - Uzbek (Uzbekistan)"
+        }
+      ]
+    },
+    {
+      "dialect": "UZ",
+      "name": "Microsoft Sardor Online (Natural) - Uzbek (Uzbekistan)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Sardor Online (Natural) - Uzbek (Uzbekistan)"
+        }
+      ]
+    }
+  ],
+  "vi": [
+    {
+      "dialect": "VN",
+      "name": "Microsoft HoaiMy Online (Natural) - Vietnamese (Vietnam)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft HoaiMy Online (Natural) - Vietnamese (Vietnam)"
+        }
+      ]
+    },
+    {
+      "dialect": "VN",
+      "name": "Microsoft NamMinh Online (Natural) - Vietnamese (Vietnam)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft NamMinh Online (Natural) - Vietnamese (Vietnam)"
+        }
+      ]
+    }
+  ],
+  "cy": [
+    {
+      "dialect": "GB",
+      "name": "Microsoft Aled Online (Natural) - Welsh (United Kingdom)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Aled Online (Natural) - Welsh (United Kingdom)"
+        }
+      ]
+    },
+    {
+      "dialect": "GB",
+      "name": "Microsoft Nia Online (Natural) - Welsh (United Kingdom)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Nia Online (Natural) - Welsh (United Kingdom)"
+        }
+      ]
+    }
+  ],
+  "zu": [
+    {
+      "dialect": "ZA",
+      "name": "Microsoft Thando Online (Natural) - Zulu (South Africa)",
+      "gender": "F",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Thando Online (Natural) - Zulu (South Africa)"
+        }
+      ]
+    },
+    {
+      "dialect": "ZA",
+      "name": "Microsoft Themba Online (Natural) - Zulu (South Africa)",
+      "gender": "M",
+      "compatibility": [
+        {
+          "os": "Windows",
+          "browser": "Microsoft Edge",
+          "uri": "Microsoft Themba Online (Natural) - Zulu (South Africa)"
+        }
+      ]
+    }
+  ]
+}

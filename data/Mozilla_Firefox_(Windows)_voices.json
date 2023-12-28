@@ -1,0 +1,42 @@
+[
+  {
+    "lang": "en-US",
+    "name": "Microsoft David - English (United States)",
+    "uri": "urn:moz-tts:sapi:Microsoft David - English (United States)?en-US",
+    "browser": "Mozilla Firefox",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "en-US",
+    "name": "Microsoft Mark - English (United States)",
+    "uri": "urn:moz-tts:sapi:Microsoft Mark - English (United States)?en-US",
+    "browser": "Mozilla Firefox",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "en-US",
+    "name": "Microsoft Zira - English (United States)",
+    "uri": "urn:moz-tts:sapi:Microsoft Zira - English (United States)?en-US",
+    "browser": "Mozilla Firefox",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "en-US",
+    "name": "Microsoft David Desktop - English (United States)",
+    "uri": "urn:moz-tts:sapi:Microsoft David Desktop - English (United States)?en-US",
+    "browser": "Mozilla Firefox",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "en-US",
+    "name": "Microsoft Zira Desktop - English (United States)",
+    "uri": "urn:moz-tts:sapi:Microsoft Zira Desktop - English (United States)?en-US",
+    "browser": "Mozilla Firefox",
+    "os": "Windows",
+    "gender": "F"
+  }
+]

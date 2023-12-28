@@ -1,0 +1,2434 @@
+[
+  {
+    "lang": "en-US",
+    "name": "Microsoft David - English (United States)",
+    "uri": "Microsoft David - English (United States)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "en-US",
+    "name": "Microsoft Mark - English (United States)",
+    "uri": "Microsoft Mark - English (United States)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "en-US",
+    "name": "Microsoft Zira - English (United States)",
+    "uri": "Microsoft Zira - English (United States)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "af-ZA",
+    "name": "Microsoft Adri Online (Natural) - Afrikaans (South Africa)",
+    "uri": "Microsoft Adri Online (Natural) - Afrikaans (South Africa)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "af-ZA",
+    "name": "Microsoft Willem Online (Natural) - Afrikaans (South Africa)",
+    "uri": "Microsoft Willem Online (Natural) - Afrikaans (South Africa)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "sq-AL",
+    "name": "Microsoft Anila Online (Natural) - Albanian (Albania)",
+    "uri": "Microsoft Anila Online (Natural) - Albanian (Albania)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "sq-AL",
+    "name": "Microsoft Ilir Online (Natural) - Albanian (Albania)",
+    "uri": "Microsoft Ilir Online (Natural) - Albanian (Albania)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "am-ET",
+    "name": "Microsoft Ameha Online (Natural) - Amharic (Ethiopia)",
+    "uri": "Microsoft Ameha Online (Natural) - Amharic (Ethiopia)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "am-ET",
+    "name": "Microsoft Mekdes Online (Natural) - Amharic (Ethiopia)",
+    "uri": "Microsoft Mekdes Online (Natural) - Amharic (Ethiopia)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "ar-DZ",
+    "name": "Microsoft Amina Online (Natural) - Arabic (Algeria)",
+    "uri": "Microsoft Amina Online (Natural) - Arabic (Algeria)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "ar-DZ",
+    "name": "Microsoft Ismael Online (Natural) - Arabic (Algeria)",
+    "uri": "Microsoft Ismael Online (Natural) - Arabic (Algeria)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "ar-BH",
+    "name": "Microsoft Ali Online (Natural) - Arabic (Bahrain)",
+    "uri": "Microsoft Ali Online (Natural) - Arabic (Bahrain)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "ar-BH",
+    "name": "Microsoft Laila Online (Natural) - Arabic (Bahrain)",
+    "uri": "Microsoft Laila Online (Natural) - Arabic (Bahrain)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "ar-EG",
+    "name": "Microsoft Salma Online (Natural) - Arabic (Egypt)",
+    "uri": "Microsoft Salma Online (Natural) - Arabic (Egypt)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "ar-EG",
+    "name": "Microsoft Shakir Online (Natural) - Arabic (Egypt)",
+    "uri": "Microsoft Shakir Online (Natural) - Arabic (Egypt)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "ar-IQ",
+    "name": "Microsoft Bassel Online (Natural) - Arabic (Iraq)",
+    "uri": "Microsoft Bassel Online (Natural) - Arabic (Iraq)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "ar-IQ",
+    "name": "Microsoft Rana Online (Natural) - Arabic (Iraq)",
+    "uri": "Microsoft Rana Online (Natural) - Arabic (Iraq)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "ar-JO",
+    "name": "Microsoft Sana Online (Natural) - Arabic (Jordan)",
+    "uri": "Microsoft Sana Online (Natural) - Arabic (Jordan)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "ar-JO",
+    "name": "Microsoft Taim Online (Natural) - Arabic (Jordan)",
+    "uri": "Microsoft Taim Online (Natural) - Arabic (Jordan)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "ar-KW",
+    "name": "Microsoft Fahed Online (Natural) - Arabic (Kuwait)",
+    "uri": "Microsoft Fahed Online (Natural) - Arabic (Kuwait)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "ar-KW",
+    "name": "Microsoft Noura Online (Natural) - Arabic (Kuwait)",
+    "uri": "Microsoft Noura Online (Natural) - Arabic (Kuwait)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "ar-LB",
+    "name": "Microsoft Layla Online (Natural) - Arabic (Lebanon)",
+    "uri": "Microsoft Layla Online (Natural) - Arabic (Lebanon)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "ar-LB",
+    "name": "Microsoft Rami Online (Natural) - Arabic (Lebanon)",
+    "uri": "Microsoft Rami Online (Natural) - Arabic (Lebanon)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "ar-LY",
+    "name": "Microsoft Iman Online (Natural) - Arabic (Libya)",
+    "uri": "Microsoft Iman Online (Natural) - Arabic (Libya)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "ar-LY",
+    "name": "Microsoft Omar Online (Natural) - Arabic (Libya)",
+    "uri": "Microsoft Omar Online (Natural) - Arabic (Libya)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "ar-MA",
+    "name": "Microsoft Jamal Online (Natural) - Arabic (Morocco)",
+    "uri": "Microsoft Jamal Online (Natural) - Arabic (Morocco)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "ar-MA",
+    "name": "Microsoft Mouna Online (Natural) - Arabic (Morocco)",
+    "uri": "Microsoft Mouna Online (Natural) - Arabic (Morocco)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "ar-OM",
+    "name": "Microsoft Abdullah Online (Natural) - Arabic (Oman)",
+    "uri": "Microsoft Abdullah Online (Natural) - Arabic (Oman)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "ar-OM",
+    "name": "Microsoft Aysha Online (Natural) - Arabic (Oman)",
+    "uri": "Microsoft Aysha Online (Natural) - Arabic (Oman)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "ar-QA",
+    "name": "Microsoft Amal Online (Natural) - Arabic (Qatar)",
+    "uri": "Microsoft Amal Online (Natural) - Arabic (Qatar)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "ar-QA",
+    "name": "Microsoft Moaz Online (Natural) - Arabic (Qatar)",
+    "uri": "Microsoft Moaz Online (Natural) - Arabic (Qatar)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "ar-SA",
+    "name": "Microsoft Hamed Online (Natural) - Arabic (Saudi Arabia)",
+    "uri": "Microsoft Hamed Online (Natural) - Arabic (Saudi Arabia)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "ar-SA",
+    "name": "Microsoft Zariyah Online (Natural) - Arabic (Saudi Arabia)",
+    "uri": "Microsoft Zariyah Online (Natural) - Arabic (Saudi Arabia)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "ar-SY",
+    "name": "Microsoft Amany Online (Natural) - Arabic (Syria)",
+    "uri": "Microsoft Amany Online (Natural) - Arabic (Syria)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "ar-SY",
+    "name": "Microsoft Laith Online (Natural) - Arabic (Syria)",
+    "uri": "Microsoft Laith Online (Natural) - Arabic (Syria)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "ar-TN",
+    "name": "Microsoft Hedi Online (Natural) - Arabic (Tunisia)",
+    "uri": "Microsoft Hedi Online (Natural) - Arabic (Tunisia)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "ar-TN",
+    "name": "Microsoft Reem Online (Natural) - Arabic (Tunisia)",
+    "uri": "Microsoft Reem Online (Natural) - Arabic (Tunisia)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "ar-AE",
+    "name": "Microsoft Fatima Online (Natural) - Arabic (United Arab Emirates)",
+    "uri": "Microsoft Fatima Online (Natural) - Arabic (United Arab Emirates)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "ar-AE",
+    "name": "Microsoft Hamdan Online (Natural) - Arabic (United Arab Emirates)",
+    "uri": "Microsoft Hamdan Online (Natural) - Arabic (United Arab Emirates)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "ar-YE",
+    "name": "Microsoft Maryam Online (Natural) - Arabic (Yemen)",
+    "uri": "Microsoft Maryam Online (Natural) - Arabic (Yemen)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "ar-YE",
+    "name": "Microsoft Saleh Online (Natural) - Arabic (Yemen)",
+    "uri": "Microsoft Saleh Online (Natural) - Arabic (Yemen)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "az-AZ",
+    "name": "Microsoft Babek Online (Natural) - Azerbaijani (Azerbaijan)",
+    "uri": "Microsoft Babek Online (Natural) - Azerbaijani (Azerbaijan)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "az-AZ",
+    "name": "Microsoft Banu Online (Natural) - Azerbaijani (Azerbaijan)",
+    "uri": "Microsoft Banu Online (Natural) - Azerbaijani (Azerbaijan)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "bn-BD",
+    "name": "Microsoft Nabanita Online (Natural) - Bangla (Bangladesh)",
+    "uri": "Microsoft Nabanita Online (Natural) - Bangla (Bangladesh)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "bn-BD",
+    "name": "Microsoft Pradeep Online (Natural) - Bangla (Bangladesh)",
+    "uri": "Microsoft Pradeep Online (Natural) - Bangla (Bangladesh)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "bn-IN",
+    "name": "Microsoft Bashkar Online (Natural) - Bangla (India)",
+    "uri": "Microsoft Bashkar Online (Natural) - Bangla (India)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "bn-IN",
+    "name": "Microsoft Tanishaa Online (Natural) - Bengali (India)",
+    "uri": "Microsoft Tanishaa Online (Natural) - Bengali (India)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "bs-BA",
+    "name": "Microsoft Goran Online (Natural) - Bosnian (Bosnia)",
+    "uri": "Microsoft Goran Online (Natural) - Bosnian (Bosnia)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "bs-BA",
+    "name": "Microsoft Vesna Online (Natural) - Bosnian (Bosnia)",
+    "uri": "Microsoft Vesna Online (Natural) - Bosnian (Bosnia)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "bg-BG",
+    "name": "Microsoft Borislav Online (Natural) - Bulgarian (Bulgaria)",
+    "uri": "Microsoft Borislav Online (Natural) - Bulgarian (Bulgaria)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "bg-BG",
+    "name": "Microsoft Kalina Online (Natural) - Bulgarian (Bulgaria)",
+    "uri": "Microsoft Kalina Online (Natural) - Bulgarian (Bulgaria)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "my-MM",
+    "name": "Microsoft Nilar Online (Natural) - Burmese (Myanmar)",
+    "uri": "Microsoft Nilar Online (Natural) - Burmese (Myanmar)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "my-MM",
+    "name": "Microsoft Thiha Online (Natural) - Burmese (Myanmar)",
+    "uri": "Microsoft Thiha Online (Natural) - Burmese (Myanmar)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "ca-ES",
+    "name": "Microsoft Enric Online (Natural) - Catalan (Spain)",
+    "uri": "Microsoft Enric Online (Natural) - Catalan (Spain)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "ca-ES",
+    "name": "Microsoft Joana Online (Natural) - Catalan (Spain)",
+    "uri": "Microsoft Joana Online (Natural) - Catalan (Spain)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "zh-HK",
+    "name": "Microsoft HiuGaai Online (Natural) - Chinese (Cantonese Traditional)",
+    "uri": "Microsoft HiuGaai Online (Natural) - Chinese (Cantonese Traditional)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "zh-HK",
+    "name": "Microsoft HiuMaan Online (Natural) - Chinese (Hong Kong)",
+    "uri": "Microsoft HiuMaan Online (Natural) - Chinese (Hong Kong)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "zh-HK",
+    "name": "Microsoft WanLung Online (Natural) - Chinese (Hong Kong)",
+    "uri": "Microsoft WanLung Online (Natural) - Chinese (Hong Kong)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "zh-CN",
+    "name": "Microsoft Xiaoxiao Online (Natural) - Chinese (Mainland)",
+    "uri": "Microsoft Xiaoxiao Online (Natural) - Chinese (Mainland)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "zh-CN",
+    "name": "Microsoft Xiaoyi Online (Natural) - Chinese (Mainland)",
+    "uri": "Microsoft Xiaoyi Online (Natural) - Chinese (Mainland)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "zh-CN",
+    "name": "Microsoft Yunjian Online (Natural) - Chinese (Mainland)",
+    "uri": "Microsoft Yunjian Online (Natural) - Chinese (Mainland)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "zh-CN",
+    "name": "Microsoft Yunxi Online (Natural) - Chinese (Mainland)",
+    "uri": "Microsoft Yunxi Online (Natural) - Chinese (Mainland)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "zh-CN",
+    "name": "Microsoft Yunxia Online (Natural) - Chinese (Mainland)",
+    "uri": "Microsoft Yunxia Online (Natural) - Chinese (Mainland)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "zh-CN",
+    "name": "Microsoft Yunyang Online (Natural) - Chinese (Mainland)",
+    "uri": "Microsoft Yunyang Online (Natural) - Chinese (Mainland)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "zh-CN-liaoning",
+    "name": "Microsoft Xiaobei Online (Natural) - Chinese (Northeastern Mandarin)",
+    "uri": "Microsoft Xiaobei Online (Natural) - Chinese (Northeastern Mandarin)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "zh-TW",
+    "name": "Microsoft HsiaoChen Online (Natural) - Chinese (Taiwan)",
+    "uri": "Microsoft HsiaoChen Online (Natural) - Chinese (Taiwan)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "zh-TW",
+    "name": "Microsoft YunJhe Online (Natural) - Chinese (Taiwan)",
+    "uri": "Microsoft YunJhe Online (Natural) - Chinese (Taiwan)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "zh-TW",
+    "name": "Microsoft HsiaoYu Online (Natural) - Chinese (Taiwanese Mandarin)",
+    "uri": "Microsoft HsiaoYu Online (Natural) - Chinese (Taiwanese Mandarin)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "zh-CN-shaanxi",
+    "name": "Microsoft Xiaoni Online (Natural) - Chinese (Zhongyuan Mandarin Shaanxi)",
+    "uri": "Microsoft Xiaoni Online (Natural) - Chinese (Zhongyuan Mandarin Shaanxi)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "hr-HR",
+    "name": "Microsoft Gabrijela Online (Natural) - Croatian (Croatia)",
+    "uri": "Microsoft Gabrijela Online (Natural) - Croatian (Croatia)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "hr-HR",
+    "name": "Microsoft Srecko Online (Natural) - Croatian (Croatia)",
+    "uri": "Microsoft Srecko Online (Natural) - Croatian (Croatia)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "cs-CZ",
+    "name": "Microsoft Antonin Online (Natural) - Czech (Czech)",
+    "uri": "Microsoft Antonin Online (Natural) - Czech (Czech)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "cs-CZ",
+    "name": "Microsoft Vlasta Online (Natural) - Czech (Czech)",
+    "uri": "Microsoft Vlasta Online (Natural) - Czech (Czech)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "da-DK",
+    "name": "Microsoft Christel Online (Natural) - Danish (Denmark)",
+    "uri": "Microsoft Christel Online (Natural) - Danish (Denmark)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "da-DK",
+    "name": "Microsoft Jeppe Online (Natural) - Danish (Denmark)",
+    "uri": "Microsoft Jeppe Online (Natural) - Danish (Denmark)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "nl-BE",
+    "name": "Microsoft Arnaud Online (Natural) - Dutch (Belgium)",
+    "uri": "Microsoft Arnaud Online (Natural) - Dutch (Belgium)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "nl-BE",
+    "name": "Microsoft Dena Online (Natural) - Dutch (Belgium)",
+    "uri": "Microsoft Dena Online (Natural) - Dutch (Belgium)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "nl-NL",
+    "name": "Microsoft Colette Online (Natural) - Dutch (Netherlands)",
+    "uri": "Microsoft Colette Online (Natural) - Dutch (Netherlands)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "nl-NL",
+    "name": "Microsoft Fenna Online (Natural) - Dutch (Netherlands)",
+    "uri": "Microsoft Fenna Online (Natural) - Dutch (Netherlands)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "nl-NL",
+    "name": "Microsoft Maarten Online (Natural) - Dutch (Netherlands)",
+    "uri": "Microsoft Maarten Online (Natural) - Dutch (Netherlands)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "en-AU",
+    "name": "Microsoft Natasha Online (Natural) - English (Australia)",
+    "uri": "Microsoft Natasha Online (Natural) - English (Australia)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "en-AU",
+    "name": "Microsoft William Online (Natural) - English (Australia)",
+    "uri": "Microsoft William Online (Natural) - English (Australia)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "en-CA",
+    "name": "Microsoft Clara Online (Natural) - English (Canada)",
+    "uri": "Microsoft Clara Online (Natural) - English (Canada)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "en-CA",
+    "name": "Microsoft Liam Online (Natural) - English (Canada)",
+    "uri": "Microsoft Liam Online (Natural) - English (Canada)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "en-HK",
+    "name": "Microsoft Sam Online (Natural) - English (Hongkong)",
+    "uri": "Microsoft Sam Online (Natural) - English (Hongkong)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "en-HK",
+    "name": "Microsoft Yan Online (Natural) - English (Hongkong)",
+    "uri": "Microsoft Yan Online (Natural) - English (Hongkong)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "en-IN",
+    "name": "Microsoft Neerja Online (Natural) - English (India) (Preview)",
+    "uri": "Microsoft Neerja Online (Natural) - English (India) (Preview)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "en-IN",
+    "name": "Microsoft Neerja Online (Natural) - English (India)",
+    "uri": "Microsoft Neerja Online (Natural) - English (India)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "en-IN",
+    "name": "Microsoft Prabhat Online (Natural) - English (India)",
+    "uri": "Microsoft Prabhat Online (Natural) - English (India)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "en-IE",
+    "name": "Microsoft Connor Online (Natural) - English (Ireland)",
+    "uri": "Microsoft Connor Online (Natural) - English (Ireland)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "en-IE",
+    "name": "Microsoft Emily Online (Natural) - English (Ireland)",
+    "uri": "Microsoft Emily Online (Natural) - English (Ireland)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "en-KE",
+    "name": "Microsoft Asilia Online (Natural) - English (Kenya)",
+    "uri": "Microsoft Asilia Online (Natural) - English (Kenya)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "en-KE",
+    "name": "Microsoft Chilemba Online (Natural) - English (Kenya)",
+    "uri": "Microsoft Chilemba Online (Natural) - English (Kenya)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "en-NZ",
+    "name": "Microsoft Mitchell Online (Natural) - English (New Zealand)",
+    "uri": "Microsoft Mitchell Online (Natural) - English (New Zealand)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "en-NZ",
+    "name": "Microsoft Molly Online (Natural) - English (New Zealand)",
+    "uri": "Microsoft Molly Online (Natural) - English (New Zealand)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "en-NG",
+    "name": "Microsoft Abeo Online (Natural) - English (Nigeria)",
+    "uri": "Microsoft Abeo Online (Natural) - English (Nigeria)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "en-NG",
+    "name": "Microsoft Ezinne Online (Natural) - English (Nigeria)",
+    "uri": "Microsoft Ezinne Online (Natural) - English (Nigeria)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "en-PH",
+    "name": "Microsoft James Online (Natural) - English (Philippines)",
+    "uri": "Microsoft James Online (Natural) - English (Philippines)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "en-PH",
+    "name": "Microsoft Rosa Online (Natural) - English (Philippines)",
+    "uri": "Microsoft Rosa Online (Natural) - English (Philippines)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "en-SG",
+    "name": "Microsoft Luna Online (Natural) - English (Singapore)",
+    "uri": "Microsoft Luna Online (Natural) - English (Singapore)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "en-SG",
+    "name": "Microsoft Wayne Online (Natural) - English (Singapore)",
+    "uri": "Microsoft Wayne Online (Natural) - English (Singapore)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "en-ZA",
+    "name": "Microsoft Leah Online (Natural) - English (South Africa)",
+    "uri": "Microsoft Leah Online (Natural) - English (South Africa)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "en-ZA",
+    "name": "Microsoft Luke Online (Natural) - English (South Africa)",
+    "uri": "Microsoft Luke Online (Natural) - English (South Africa)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "en-TZ",
+    "name": "Microsoft Elimu Online (Natural) - English (Tanzania)",
+    "uri": "Microsoft Elimu Online (Natural) - English (Tanzania)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": ""
+  },
+  {
+    "lang": "en-TZ",
+    "name": "Microsoft Imani Online (Natural) - English (Tanzania)",
+    "uri": "Microsoft Imani Online (Natural) - English (Tanzania)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": ""
+  },
+  {
+    "lang": "en-GB",
+    "name": "Microsoft Libby Online (Natural) - English (United Kingdom)",
+    "uri": "Microsoft Libby Online (Natural) - English (United Kingdom)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "en-GB",
+    "name": "Microsoft Maisie Online (Natural) - English (United Kingdom)",
+    "uri": "Microsoft Maisie Online (Natural) - English (United Kingdom)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "en-GB",
+    "name": "Microsoft Ryan Online (Natural) - English (United Kingdom)",
+    "uri": "Microsoft Ryan Online (Natural) - English (United Kingdom)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "en-GB",
+    "name": "Microsoft Sonia Online (Natural) - English (United Kingdom)",
+    "uri": "Microsoft Sonia Online (Natural) - English (United Kingdom)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "en-GB",
+    "name": "Microsoft Thomas Online (Natural) - English (United Kingdom)",
+    "uri": "Microsoft Thomas Online (Natural) - English (United Kingdom)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "en-US",
+    "name": "Microsoft Aria Online (Natural) - English (United States)",
+    "uri": "Microsoft Aria Online (Natural) - English (United States)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "en-US",
+    "name": "Microsoft Ana Online (Natural) - English (United States)",
+    "uri": "Microsoft Ana Online (Natural) - English (United States)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "en-US",
+    "name": "Microsoft Christopher Online (Natural) - English (United States)",
+    "uri": "Microsoft Christopher Online (Natural) - English (United States)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "en-US",
+    "name": "Microsoft Eric Online (Natural) - English (United States)",
+    "uri": "Microsoft Eric Online (Natural) - English (United States)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "en-US",
+    "name": "Microsoft Guy Online (Natural) - English (United States)",
+    "uri": "Microsoft Guy Online (Natural) - English (United States)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "en-US",
+    "name": "Microsoft Jenny Online (Natural) - English (United States)",
+    "uri": "Microsoft Jenny Online (Natural) - English (United States)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "en-US",
+    "name": "Microsoft Michelle Online (Natural) - English (United States)",
+    "uri": "Microsoft Michelle Online (Natural) - English (United States)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "en-US",
+    "name": "Microsoft Roger Online (Natural) - English (United States)",
+    "uri": "Microsoft Roger Online (Natural) - English (United States)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "en-US",
+    "name": "Microsoft Steffan Online (Natural) - English (United States)",
+    "uri": "Microsoft Steffan Online (Natural) - English (United States)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "et-EE",
+    "name": "Microsoft Anu Online (Natural) - Estonian (Estonia)",
+    "uri": "Microsoft Anu Online (Natural) - Estonian (Estonia)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "et-EE",
+    "name": "Microsoft Kert Online (Natural) - Estonian (Estonia)",
+    "uri": "Microsoft Kert Online (Natural) - Estonian (Estonia)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "fil-PH",
+    "name": "Microsoft Angelo Online (Natural) - Filipino (Philippines)",
+    "uri": "Microsoft Angelo Online (Natural) - Filipino (Philippines)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "fil-PH",
+    "name": "Microsoft Blessica Online (Natural) - Filipino (Philippines)",
+    "uri": "Microsoft Blessica Online (Natural) - Filipino (Philippines)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "fi-FI",
+    "name": "Microsoft Harri Online (Natural) - Finnish (Finland)",
+    "uri": "Microsoft Harri Online (Natural) - Finnish (Finland)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "fi-FI",
+    "name": "Microsoft Noora Online (Natural) - Finnish (Finland)",
+    "uri": "Microsoft Noora Online (Natural) - Finnish (Finland)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "fr-BE",
+    "name": "Microsoft Charline Online (Natural) - French (Belgium)",
+    "uri": "Microsoft Charline Online (Natural) - French (Belgium)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "fr-BE",
+    "name": "Microsoft Gerard Online (Natural) - French (Belgium)",
+    "uri": "Microsoft Gerard Online (Natural) - French (Belgium)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "fr-CA",
+    "name": "Microsoft Antoine Online (Natural) - French (Canada)",
+    "uri": "Microsoft Antoine Online (Natural) - French (Canada)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "fr-CA",
+    "name": "Microsoft Jean Online (Natural) - French (Canada)",
+    "uri": "Microsoft Jean Online (Natural) - French (Canada)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "fr-CA",
+    "name": "Microsoft Sylvie Online (Natural) - French (Canada)",
+    "uri": "Microsoft Sylvie Online (Natural) - French (Canada)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "fr-FR",
+    "name": "Microsoft Denise Online (Natural) - French (France)",
+    "uri": "Microsoft Denise Online (Natural) - French (France)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "fr-FR",
+    "name": "Microsoft Eloise Online (Natural) - French (France)",
+    "uri": "Microsoft Eloise Online (Natural) - French (France)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "fr-FR",
+    "name": "Microsoft Henri Online (Natural) - French (France)",
+    "uri": "Microsoft Henri Online (Natural) - French (France)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "fr-CH",
+    "name": "Microsoft Ariane Online (Natural) - French (Switzerland)",
+    "uri": "Microsoft Ariane Online (Natural) - French (Switzerland)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "fr-CH",
+    "name": "Microsoft Fabrice Online (Natural) - French (Switzerland)",
+    "uri": "Microsoft Fabrice Online (Natural) - French (Switzerland)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "gl-ES",
+    "name": "Microsoft Roi Online (Natural) - Galician (Spain)",
+    "uri": "Microsoft Roi Online (Natural) - Galician (Spain)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "gl-ES",
+    "name": "Microsoft Sabela Online (Natural) - Galician (Spain)",
+    "uri": "Microsoft Sabela Online (Natural) - Galician (Spain)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "ka-GE",
+    "name": "Microsoft Eka Online (Natural) - Georgian (Georgia)",
+    "uri": "Microsoft Eka Online (Natural) - Georgian (Georgia)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "ka-GE",
+    "name": "Microsoft Giorgi Online (Natural) - Georgian (Georgia)",
+    "uri": "Microsoft Giorgi Online (Natural) - Georgian (Georgia)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "de-AT",
+    "name": "Microsoft Ingrid Online (Natural) - German (Austria)",
+    "uri": "Microsoft Ingrid Online (Natural) - German (Austria)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "de-AT",
+    "name": "Microsoft Jonas Online (Natural) - German (Austria)",
+    "uri": "Microsoft Jonas Online (Natural) - German (Austria)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "de-DE",
+    "name": "Microsoft Amala Online (Natural) - German (Germany)",
+    "uri": "Microsoft Amala Online (Natural) - German (Germany)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "de-DE",
+    "name": "Microsoft Conrad Online (Natural) - German (Germany)",
+    "uri": "Microsoft Conrad Online (Natural) - German (Germany)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "de-DE",
+    "name": "Microsoft Katja Online (Natural) - German (Germany)",
+    "uri": "Microsoft Katja Online (Natural) - German (Germany)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "de-DE",
+    "name": "Microsoft Killian Online (Natural) - German (Germany)",
+    "uri": "Microsoft Killian Online (Natural) - German (Germany)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "de-CH",
+    "name": "Microsoft Jan Online (Natural) - German (Switzerland)",
+    "uri": "Microsoft Jan Online (Natural) - German (Switzerland)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "de-CH",
+    "name": "Microsoft Leni Online (Natural) - German (Switzerland)",
+    "uri": "Microsoft Leni Online (Natural) - German (Switzerland)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "el-GR",
+    "name": "Microsoft Athina Online (Natural) - Greek (Greece)",
+    "uri": "Microsoft Athina Online (Natural) - Greek (Greece)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "el-GR",
+    "name": "Microsoft Nestoras Online (Natural) - Greek (Greece)",
+    "uri": "Microsoft Nestoras Online (Natural) - Greek (Greece)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "gu-IN",
+    "name": "Microsoft Dhwani Online (Natural) - Gujarati (India)",
+    "uri": "Microsoft Dhwani Online (Natural) - Gujarati (India)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "gu-IN",
+    "name": "Microsoft Niranjan Online (Natural) - Gujarati (India)",
+    "uri": "Microsoft Niranjan Online (Natural) - Gujarati (India)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "he-IL",
+    "name": "Microsoft Avri Online (Natural) - Hebrew (Israel)",
+    "uri": "Microsoft Avri Online (Natural) - Hebrew (Israel)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "he-IL",
+    "name": "Microsoft Hila Online (Natural) - Hebrew (Israel)",
+    "uri": "Microsoft Hila Online (Natural) - Hebrew (Israel)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "hi-IN",
+    "name": "Microsoft Madhur Online (Natural) - Hindi (India)",
+    "uri": "Microsoft Madhur Online (Natural) - Hindi (India)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "hi-IN",
+    "name": "Microsoft Swara Online (Natural) - Hindi (India)",
+    "uri": "Microsoft Swara Online (Natural) - Hindi (India)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "hu-HU",
+    "name": "Microsoft Noemi Online (Natural) - Hungarian (Hungary)",
+    "uri": "Microsoft Noemi Online (Natural) - Hungarian (Hungary)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "hu-HU",
+    "name": "Microsoft Tamas Online (Natural) - Hungarian (Hungary)",
+    "uri": "Microsoft Tamas Online (Natural) - Hungarian (Hungary)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "is-IS",
+    "name": "Microsoft Gudrun Online (Natural) - Icelandic (Iceland)",
+    "uri": "Microsoft Gudrun Online (Natural) - Icelandic (Iceland)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "is-IS",
+    "name": "Microsoft Gunnar Online (Natural) - Icelandic (Iceland)",
+    "uri": "Microsoft Gunnar Online (Natural) - Icelandic (Iceland)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "id-ID",
+    "name": "Microsoft Ardi Online (Natural) - Indonesian (Indonesia)",
+    "uri": "Microsoft Ardi Online (Natural) - Indonesian (Indonesia)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "id-ID",
+    "name": "Microsoft Gadis Online (Natural) - Indonesian (Indonesia)",
+    "uri": "Microsoft Gadis Online (Natural) - Indonesian (Indonesia)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "ga-IE",
+    "name": "Microsoft Colm Online (Natural) - Irish (Ireland)",
+    "uri": "Microsoft Colm Online (Natural) - Irish (Ireland)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "ga-IE",
+    "name": "Microsoft Orla Online (Natural) - Irish (Ireland)",
+    "uri": "Microsoft Orla Online (Natural) - Irish (Ireland)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "it-IT",
+    "name": "Microsoft Diego Online (Natural) - Italian (Italy)",
+    "uri": "Microsoft Diego Online (Natural) - Italian (Italy)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "it-IT",
+    "name": "Microsoft Elsa Online (Natural) - Italian (Italy)",
+    "uri": "Microsoft Elsa Online (Natural) - Italian (Italy)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "it-IT",
+    "name": "Microsoft Isabella Online (Natural) - Italian (Italy)",
+    "uri": "Microsoft Isabella Online (Natural) - Italian (Italy)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "ja-JP",
+    "name": "Microsoft Keita Online (Natural) - Japanese (Japan)",
+    "uri": "Microsoft Keita Online (Natural) - Japanese (Japan)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "ja-JP",
+    "name": "Microsoft Nanami Online (Natural) - Japanese (Japan)",
+    "uri": "Microsoft Nanami Online (Natural) - Japanese (Japan)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "jv-ID",
+    "name": "Microsoft Dimas Online (Natural) - Javanese (Indonesia)",
+    "uri": "Microsoft Dimas Online (Natural) - Javanese (Indonesia)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "jv-ID",
+    "name": "Microsoft Siti Online (Natural) - Javanese (Indonesia)",
+    "uri": "Microsoft Siti Online (Natural) - Javanese (Indonesia)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "kn-IN",
+    "name": "Microsoft Gagan Online (Natural) - Kannada (India)",
+    "uri": "Microsoft Gagan Online (Natural) - Kannada (India)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "kn-IN",
+    "name": "Microsoft Sapna Online (Natural) - Kannada (India)",
+    "uri": "Microsoft Sapna Online (Natural) - Kannada (India)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "kk-KZ",
+    "name": "Microsoft Aigul Online (Natural) - Kazakh (Kazakhstan)",
+    "uri": "Microsoft Aigul Online (Natural) - Kazakh (Kazakhstan)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "kk-KZ",
+    "name": "Microsoft Daulet Online (Natural) - Kazakh (Kazakhstan)",
+    "uri": "Microsoft Daulet Online (Natural) - Kazakh (Kazakhstan)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "km-KH",
+    "name": "Microsoft Piseth Online (Natural) - Khmer (Cambodia)",
+    "uri": "Microsoft Piseth Online (Natural) - Khmer (Cambodia)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "km-KH",
+    "name": "Microsoft Sreymom Online (Natural) - Khmer (Cambodia)",
+    "uri": "Microsoft Sreymom Online (Natural) - Khmer (Cambodia)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "ko-KR",
+    "name": "Microsoft InJoon Online (Natural) - Korean (Korea)",
+    "uri": "Microsoft InJoon Online (Natural) - Korean (Korea)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "ko-KR",
+    "name": "Microsoft SunHi Online (Natural) - Korean (Korea)",
+    "uri": "Microsoft SunHi Online (Natural) - Korean (Korea)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "lo-LA",
+    "name": "Microsoft Chanthavong Online (Natural) - Lao (Laos)",
+    "uri": "Microsoft Chanthavong Online (Natural) - Lao (Laos)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "lo-LA",
+    "name": "Microsoft Keomany Online (Natural) - Lao (Laos)",
+    "uri": "Microsoft Keomany Online (Natural) - Lao (Laos)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "lv-LV",
+    "name": "Microsoft Everita Online (Natural) - Latvian (Latvia)",
+    "uri": "Microsoft Everita Online (Natural) - Latvian (Latvia)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "lv-LV",
+    "name": "Microsoft Nils Online (Natural) - Latvian (Latvia)",
+    "uri": "Microsoft Nils Online (Natural) - Latvian (Latvia)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "lt-LT",
+    "name": "Microsoft Leonas Online (Natural) - Lithuanian (Lithuania)",
+    "uri": "Microsoft Leonas Online (Natural) - Lithuanian (Lithuania)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "lt-LT",
+    "name": "Microsoft Ona Online (Natural) - Lithuanian (Lithuania)",
+    "uri": "Microsoft Ona Online (Natural) - Lithuanian (Lithuania)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "mk-MK",
+    "name": "Microsoft Aleksandar Online (Natural) - Macedonian (Republic of North Macedonia)",
+    "uri": "Microsoft Aleksandar Online (Natural) - Macedonian (Republic of North Macedonia)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "mk-MK",
+    "name": "Microsoft Marija Online (Natural) - Macedonian (Republic of North Macedonia)",
+    "uri": "Microsoft Marija Online (Natural) - Macedonian (Republic of North Macedonia)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "ms-MY",
+    "name": "Microsoft Osman Online (Natural) - Malay (Malaysia)",
+    "uri": "Microsoft Osman Online (Natural) - Malay (Malaysia)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "ms-MY",
+    "name": "Microsoft Yasmin Online (Natural) - Malay (Malaysia)",
+    "uri": "Microsoft Yasmin Online (Natural) - Malay (Malaysia)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "ml-IN",
+    "name": "Microsoft Midhun Online (Natural) - Malayalam (India)",
+    "uri": "Microsoft Midhun Online (Natural) - Malayalam (India)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "ml-IN",
+    "name": "Microsoft Sobhana Online (Natural) - Malayalam (India)",
+    "uri": "Microsoft Sobhana Online (Natural) - Malayalam (India)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "mt-MT",
+    "name": "Microsoft Grace Online (Natural) - Maltese (Malta)",
+    "uri": "Microsoft Grace Online (Natural) - Maltese (Malta)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "mt-MT",
+    "name": "Microsoft Joseph Online (Natural) - Maltese (Malta)",
+    "uri": "Microsoft Joseph Online (Natural) - Maltese (Malta)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "mr-IN",
+    "name": "Microsoft Aarohi Online (Natural) - Marathi (India)",
+    "uri": "Microsoft Aarohi Online (Natural) - Marathi (India)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "mr-IN",
+    "name": "Microsoft Manohar Online (Natural) - Marathi (India)",
+    "uri": "Microsoft Manohar Online (Natural) - Marathi (India)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "mn-MN",
+    "name": "Microsoft Bataa Online (Natural) - Mongolian (Mongolia)",
+    "uri": "Microsoft Bataa Online (Natural) - Mongolian (Mongolia)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "mn-MN",
+    "name": "Microsoft Yesui Online (Natural) - Mongolian (Mongolia)",
+    "uri": "Microsoft Yesui Online (Natural) - Mongolian (Mongolia)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "ne-NP",
+    "name": "Microsoft Hemkala Online (Natural) - Nepali (Nepal)",
+    "uri": "Microsoft Hemkala Online (Natural) - Nepali (Nepal)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "ne-NP",
+    "name": "Microsoft Sagar Online (Natural) - Nepali (Nepal)",
+    "uri": "Microsoft Sagar Online (Natural) - Nepali (Nepal)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "nb-NO",
+    "name": "Microsoft Finn Online (Natural) - Norwegian (Bokmål Norway)",
+    "uri": "Microsoft Finn Online (Natural) - Norwegian (Bokmål Norway)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "nb-NO",
+    "name": "Microsoft Pernille Online (Natural) - Norwegian (Bokmål, Norway)",
+    "uri": "Microsoft Pernille Online (Natural) - Norwegian (Bokmål, Norway)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "ps-AF",
+    "name": "Microsoft GulNawaz Online (Natural) - Pashto (Afghanistan)",
+    "uri": "Microsoft GulNawaz Online (Natural) - Pashto (Afghanistan)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "ps-AF",
+    "name": "Microsoft Latifa Online (Natural) - Pashto (Afghanistan)",
+    "uri": "Microsoft Latifa Online (Natural) - Pashto (Afghanistan)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "fa-IR",
+    "name": "Microsoft Dilara Online (Natural) - Persian (Iran)",
+    "uri": "Microsoft Dilara Online (Natural) - Persian (Iran)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "fa-IR",
+    "name": "Microsoft Farid Online (Natural) - Persian (Iran)",
+    "uri": "Microsoft Farid Online (Natural) - Persian (Iran)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "pl-PL",
+    "name": "Microsoft Marek Online (Natural) - Polish (Poland)",
+    "uri": "Microsoft Marek Online (Natural) - Polish (Poland)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "pl-PL",
+    "name": "Microsoft Zofia Online (Natural) - Polish (Poland)",
+    "uri": "Microsoft Zofia Online (Natural) - Polish (Poland)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "pt-BR",
+    "name": "Microsoft Antonio Online (Natural) - Portuguese (Brazil)",
+    "uri": "Microsoft Antonio Online (Natural) - Portuguese (Brazil)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "pt-BR",
+    "name": "Microsoft Francisca Online (Natural) - Portuguese (Brazil)",
+    "uri": "Microsoft Francisca Online (Natural) - Portuguese (Brazil)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "pt-PT",
+    "name": "Microsoft Duarte Online (Natural) - Portuguese (Portugal)",
+    "uri": "Microsoft Duarte Online (Natural) - Portuguese (Portugal)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "pt-PT",
+    "name": "Microsoft Raquel Online (Natural) - Portuguese (Portugal)",
+    "uri": "Microsoft Raquel Online (Natural) - Portuguese (Portugal)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "ro-RO",
+    "name": "Microsoft Alina Online (Natural) - Romanian (Romania)",
+    "uri": "Microsoft Alina Online (Natural) - Romanian (Romania)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "ro-RO",
+    "name": "Microsoft Emil Online (Natural) - Romanian (Romania)",
+    "uri": "Microsoft Emil Online (Natural) - Romanian (Romania)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "ru-RU",
+    "name": "Microsoft Dmitry Online (Natural) - Russian (Russia)",
+    "uri": "Microsoft Dmitry Online (Natural) - Russian (Russia)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "ru-RU",
+    "name": "Microsoft Svetlana Online (Natural) - Russian (Russia)",
+    "uri": "Microsoft Svetlana Online (Natural) - Russian (Russia)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "sr-RS",
+    "name": "Microsoft Nicholas Online (Natural) - Serbian (Serbia)",
+    "uri": "Microsoft Nicholas Online (Natural) - Serbian (Serbia)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "sr-RS",
+    "name": "Microsoft Sophie Online (Natural) - Serbian (Serbia)",
+    "uri": "Microsoft Sophie Online (Natural) - Serbian (Serbia)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "si-LK",
+    "name": "Microsoft Sameera Online (Natural) - Sinhala (Sri Lanka)",
+    "uri": "Microsoft Sameera Online (Natural) - Sinhala (Sri Lanka)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "si-LK",
+    "name": "Microsoft Thilini Online (Natural) - Sinhala (Sri Lanka)",
+    "uri": "Microsoft Thilini Online (Natural) - Sinhala (Sri Lanka)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "sk-SK",
+    "name": "Microsoft Lukas Online (Natural) - Slovak (Slovakia)",
+    "uri": "Microsoft Lukas Online (Natural) - Slovak (Slovakia)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "sk-SK",
+    "name": "Microsoft Viktoria Online (Natural) - Slovak (Slovakia)",
+    "uri": "Microsoft Viktoria Online (Natural) - Slovak (Slovakia)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "sl-SI",
+    "name": "Microsoft Petra Online (Natural) - Slovenian (Slovenia)",
+    "uri": "Microsoft Petra Online (Natural) - Slovenian (Slovenia)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "sl-SI",
+    "name": "Microsoft Rok Online (Natural) - Slovenian (Slovenia)",
+    "uri": "Microsoft Rok Online (Natural) - Slovenian (Slovenia)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "so-SO",
+    "name": "Microsoft Muuse Online (Natural) - Somali (Somalia)",
+    "uri": "Microsoft Muuse Online (Natural) - Somali (Somalia)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "so-SO",
+    "name": "Microsoft Ubax Online (Natural) - Somali (Somalia)",
+    "uri": "Microsoft Ubax Online (Natural) - Somali (Somalia)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "es-AR",
+    "name": "Microsoft Elena Online (Natural) - Spanish (Argentina)",
+    "uri": "Microsoft Elena Online (Natural) - Spanish (Argentina)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "es-AR",
+    "name": "Microsoft Tomas Online (Natural) - Spanish (Argentina)",
+    "uri": "Microsoft Tomas Online (Natural) - Spanish (Argentina)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "es-BO",
+    "name": "Microsoft Marcelo Online (Natural) - Spanish (Bolivia)",
+    "uri": "Microsoft Marcelo Online (Natural) - Spanish (Bolivia)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "es-BO",
+    "name": "Microsoft Sofia Online (Natural) - Spanish (Bolivia)",
+    "uri": "Microsoft Sofia Online (Natural) - Spanish (Bolivia)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "es-CL",
+    "name": "Microsoft Catalina Online (Natural) - Spanish (Chile)",
+    "uri": "Microsoft Catalina Online (Natural) - Spanish (Chile)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "es-CL",
+    "name": "Microsoft Lorenzo Online (Natural) - Spanish (Chile)",
+    "uri": "Microsoft Lorenzo Online (Natural) - Spanish (Chile)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "es-CO",
+    "name": "Microsoft Gonzalo Online (Natural) - Spanish (Colombia)",
+    "uri": "Microsoft Gonzalo Online (Natural) - Spanish (Colombia)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "es-CO",
+    "name": "Microsoft Salome Online (Natural) - Spanish (Colombia)",
+    "uri": "Microsoft Salome Online (Natural) - Spanish (Colombia)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "es-CR",
+    "name": "Microsoft Juan Online (Natural) - Spanish (Costa Rica)",
+    "uri": "Microsoft Juan Online (Natural) - Spanish (Costa Rica)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "es-CR",
+    "name": "Microsoft Maria Online (Natural) - Spanish (Costa Rica)",
+    "uri": "Microsoft Maria Online (Natural) - Spanish (Costa Rica)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "es-CU",
+    "name": "Microsoft Belkys Online (Natural) - Spanish (Cuba)",
+    "uri": "Microsoft Belkys Online (Natural) - Spanish (Cuba)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "es-CU",
+    "name": "Microsoft Manuel Online (Natural) - Spanish (Cuba)",
+    "uri": "Microsoft Manuel Online (Natural) - Spanish (Cuba)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "es-DO",
+    "name": "Microsoft Emilio Online (Natural) - Spanish (Dominican Republic)",
+    "uri": "Microsoft Emilio Online (Natural) - Spanish (Dominican Republic)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "es-DO",
+    "name": "Microsoft Ramona Online (Natural) - Spanish (Dominican Republic)",
+    "uri": "Microsoft Ramona Online (Natural) - Spanish (Dominican Republic)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "es-EC",
+    "name": "Microsoft Andrea Online (Natural) - Spanish (Ecuador)",
+    "uri": "Microsoft Andrea Online (Natural) - Spanish (Ecuador)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "es-EC",
+    "name": "Microsoft Luis Online (Natural) - Spanish (Ecuador)",
+    "uri": "Microsoft Luis Online (Natural) - Spanish (Ecuador)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "es-SV",
+    "name": "Microsoft Lorena Online (Natural) - Spanish (El Salvador)",
+    "uri": "Microsoft Lorena Online (Natural) - Spanish (El Salvador)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "es-SV",
+    "name": "Microsoft Rodrigo Online (Natural) - Spanish (El Salvador)",
+    "uri": "Microsoft Rodrigo Online (Natural) - Spanish (El Salvador)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "es-GQ",
+    "name": "Microsoft Javier Online (Natural) - Spanish (Equatorial Guinea)",
+    "uri": "Microsoft Javier Online (Natural) - Spanish (Equatorial Guinea)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "es-GQ",
+    "name": "Microsoft Teresa Online (Natural) - Spanish (Equatorial Guinea)",
+    "uri": "Microsoft Teresa Online (Natural) - Spanish (Equatorial Guinea)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "es-GT",
+    "name": "Microsoft Andres Online (Natural) - Spanish (Guatemala)",
+    "uri": "Microsoft Andres Online (Natural) - Spanish (Guatemala)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "es-GT",
+    "name": "Microsoft Marta Online (Natural) - Spanish (Guatemala)",
+    "uri": "Microsoft Marta Online (Natural) - Spanish (Guatemala)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "es-HN",
+    "name": "Microsoft Carlos Online (Natural) - Spanish (Honduras)",
+    "uri": "Microsoft Carlos Online (Natural) - Spanish (Honduras)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "es-HN",
+    "name": "Microsoft Karla Online (Natural) - Spanish (Honduras)",
+    "uri": "Microsoft Karla Online (Natural) - Spanish (Honduras)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "es-MX",
+    "name": "Microsoft Dalia Online (Natural) - Spanish (Mexico)",
+    "uri": "Microsoft Dalia Online (Natural) - Spanish (Mexico)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "es-MX",
+    "name": "Microsoft Jorge Online (Natural) - Spanish (Mexico)",
+    "uri": "Microsoft Jorge Online (Natural) - Spanish (Mexico)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "es-NI",
+    "name": "Microsoft Federico Online (Natural) - Spanish (Nicaragua)",
+    "uri": "Microsoft Federico Online (Natural) - Spanish (Nicaragua)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "es-NI",
+    "name": "Microsoft Yolanda Online (Natural) - Spanish (Nicaragua)",
+    "uri": "Microsoft Yolanda Online (Natural) - Spanish (Nicaragua)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "es-PA",
+    "name": "Microsoft Margarita Online (Natural) - Spanish (Panama)",
+    "uri": "Microsoft Margarita Online (Natural) - Spanish (Panama)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "es-PA",
+    "name": "Microsoft Roberto Online (Natural) - Spanish (Panama)",
+    "uri": "Microsoft Roberto Online (Natural) - Spanish (Panama)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "es-PY",
+    "name": "Microsoft Mario Online (Natural) - Spanish (Paraguay)",
+    "uri": "Microsoft Mario Online (Natural) - Spanish (Paraguay)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "es-PY",
+    "name": "Microsoft Tania Online (Natural) - Spanish (Paraguay)",
+    "uri": "Microsoft Tania Online (Natural) - Spanish (Paraguay)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "es-PE",
+    "name": "Microsoft Alex Online (Natural) - Spanish (Peru)",
+    "uri": "Microsoft Alex Online (Natural) - Spanish (Peru)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "es-PE",
+    "name": "Microsoft Camila Online (Natural) - Spanish (Peru)",
+    "uri": "Microsoft Camila Online (Natural) - Spanish (Peru)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "es-PR",
+    "name": "Microsoft Karina Online (Natural) - Spanish (Puerto Rico)",
+    "uri": "Microsoft Karina Online (Natural) - Spanish (Puerto Rico)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "es-PR",
+    "name": "Microsoft Victor Online (Natural) - Spanish (Puerto Rico)",
+    "uri": "Microsoft Victor Online (Natural) - Spanish (Puerto Rico)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "es-ES",
+    "name": "Microsoft Alvaro Online (Natural) - Spanish (Spain)",
+    "uri": "Microsoft Alvaro Online (Natural) - Spanish (Spain)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "es-ES",
+    "name": "Microsoft Elvira Online (Natural) - Spanish (Spain)",
+    "uri": "Microsoft Elvira Online (Natural) - Spanish (Spain)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "es-US",
+    "name": "Microsoft Alonso Online (Natural) - Spanish (United States)",
+    "uri": "Microsoft Alonso Online (Natural) - Spanish (United States)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "es-US",
+    "name": "Microsoft Paloma Online (Natural) - Spanish (United States)",
+    "uri": "Microsoft Paloma Online (Natural) - Spanish (United States)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "es-UY",
+    "name": "Microsoft Mateo Online (Natural) - Spanish (Uruguay)",
+    "uri": "Microsoft Mateo Online (Natural) - Spanish (Uruguay)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "es-UY",
+    "name": "Microsoft Valentina Online (Natural) - Spanish (Uruguay)",
+    "uri": "Microsoft Valentina Online (Natural) - Spanish (Uruguay)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "es-VE",
+    "name": "Microsoft Paola Online (Natural) - Spanish (Venezuela)",
+    "uri": "Microsoft Paola Online (Natural) - Spanish (Venezuela)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "es-VE",
+    "name": "Microsoft Sebastian Online (Natural) - Spanish (Venezuela)",
+    "uri": "Microsoft Sebastian Online (Natural) - Spanish (Venezuela)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "su-ID",
+    "name": "Microsoft Jajang Online (Natural) - Sundanese (Indonesia)",
+    "uri": "Microsoft Jajang Online (Natural) - Sundanese (Indonesia)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "su-ID",
+    "name": "Microsoft Tuti Online (Natural) - Sundanese (Indonesia)",
+    "uri": "Microsoft Tuti Online (Natural) - Sundanese (Indonesia)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "sw-KE",
+    "name": "Microsoft Rafiki Online (Natural) - Swahili (Kenya)",
+    "uri": "Microsoft Rafiki Online (Natural) - Swahili (Kenya)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "sw-KE",
+    "name": "Microsoft Zuri Online (Natural) - Swahili (Kenya)",
+    "uri": "Microsoft Zuri Online (Natural) - Swahili (Kenya)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "sw-TZ",
+    "name": "Microsoft Daudi Online (Natural) - Swahili (Tanzania)",
+    "uri": "Microsoft Daudi Online (Natural) - Swahili (Tanzania)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "sw-TZ",
+    "name": "Microsoft Rehema Online (Natural) - Swahili (Tanzania)",
+    "uri": "Microsoft Rehema Online (Natural) - Swahili (Tanzania)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "sv-SE",
+    "name": "Microsoft Mattias Online (Natural) - Swedish (Sweden)",
+    "uri": "Microsoft Mattias Online (Natural) - Swedish (Sweden)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "sv-SE",
+    "name": "Microsoft Sofie Online (Natural) - Swedish (Sweden)",
+    "uri": "Microsoft Sofie Online (Natural) - Swedish (Sweden)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "ta-IN",
+    "name": "Microsoft Pallavi Online (Natural) - Tamil (India)",
+    "uri": "Microsoft Pallavi Online (Natural) - Tamil (India)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "ta-IN",
+    "name": "Microsoft Valluvar Online (Natural) - Tamil (India)",
+    "uri": "Microsoft Valluvar Online (Natural) - Tamil (India)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "ta-MY",
+    "name": "Microsoft Kani Online (Natural) - Tamil (Malaysia)",
+    "uri": "Microsoft Kani Online (Natural) - Tamil (Malaysia)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "ta-MY",
+    "name": "Microsoft Surya Online (Natural) - Tamil (Malaysia)",
+    "uri": "Microsoft Surya Online (Natural) - Tamil (Malaysia)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "ta-SG",
+    "name": "Microsoft Anbu Online (Natural) - Tamil (Singapore)",
+    "uri": "Microsoft Anbu Online (Natural) - Tamil (Singapore)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "ta-SG",
+    "name": "Microsoft Venba Online (Natural) - Tamil (Singapore)",
+    "uri": "Microsoft Venba Online (Natural) - Tamil (Singapore)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "ta-LK",
+    "name": "Microsoft Kumar Online (Natural) - Tamil (Sri Lanka)",
+    "uri": "Microsoft Kumar Online (Natural) - Tamil (Sri Lanka)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "ta-LK",
+    "name": "Microsoft Saranya Online (Natural) - Tamil (Sri Lanka)",
+    "uri": "Microsoft Saranya Online (Natural) - Tamil (Sri Lanka)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "te-IN",
+    "name": "Microsoft Mohan Online (Natural) - Telugu (India)",
+    "uri": "Microsoft Mohan Online (Natural) - Telugu (India)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "te-IN",
+    "name": "Microsoft Shruti Online (Natural) - Telugu (India)",
+    "uri": "Microsoft Shruti Online (Natural) - Telugu (India)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "th-TH",
+    "name": "Microsoft Niwat Online (Natural) - Thai (Thailand)",
+    "uri": "Microsoft Niwat Online (Natural) - Thai (Thailand)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "th-TH",
+    "name": "Microsoft Premwadee Online (Natural) - Thai (Thailand)",
+    "uri": "Microsoft Premwadee Online (Natural) - Thai (Thailand)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "tr-TR",
+    "name": "Microsoft Ahmet Online (Natural) - Turkish (Turkey)",
+    "uri": "Microsoft Ahmet Online (Natural) - Turkish (Turkey)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "tr-TR",
+    "name": "Microsoft Emel Online (Natural) - Turkish (Turkey)",
+    "uri": "Microsoft Emel Online (Natural) - Turkish (Turkey)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "uk-UA",
+    "name": "Microsoft Ostap Online (Natural) - Ukrainian (Ukraine)",
+    "uri": "Microsoft Ostap Online (Natural) - Ukrainian (Ukraine)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "uk-UA",
+    "name": "Microsoft Polina Online (Natural) - Ukrainian (Ukraine)",
+    "uri": "Microsoft Polina Online (Natural) - Ukrainian (Ukraine)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "ur-IN",
+    "name": "Microsoft Gul Online (Natural) - Urdu (India)",
+    "uri": "Microsoft Gul Online (Natural) - Urdu (India)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "ur-IN",
+    "name": "Microsoft Salman Online (Natural) - Urdu (India)",
+    "uri": "Microsoft Salman Online (Natural) - Urdu (India)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "ur-PK",
+    "name": "Microsoft Asad Online (Natural) - Urdu (Pakistan)",
+    "uri": "Microsoft Asad Online (Natural) - Urdu (Pakistan)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "ur-PK",
+    "name": "Microsoft Uzma Online (Natural) - Urdu (Pakistan)",
+    "uri": "Microsoft Uzma Online (Natural) - Urdu (Pakistan)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "uz-UZ",
+    "name": "Microsoft Madina Online (Natural) - Uzbek (Uzbekistan)",
+    "uri": "Microsoft Madina Online (Natural) - Uzbek (Uzbekistan)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "uz-UZ",
+    "name": "Microsoft Sardor Online (Natural) - Uzbek (Uzbekistan)",
+    "uri": "Microsoft Sardor Online (Natural) - Uzbek (Uzbekistan)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "vi-VN",
+    "name": "Microsoft HoaiMy Online (Natural) - Vietnamese (Vietnam)",
+    "uri": "Microsoft HoaiMy Online (Natural) - Vietnamese (Vietnam)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "vi-VN",
+    "name": "Microsoft NamMinh Online (Natural) - Vietnamese (Vietnam)",
+    "uri": "Microsoft NamMinh Online (Natural) - Vietnamese (Vietnam)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "cy-GB",
+    "name": "Microsoft Aled Online (Natural) - Welsh (United Kingdom)",
+    "uri": "Microsoft Aled Online (Natural) - Welsh (United Kingdom)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "cy-GB",
+    "name": "Microsoft Nia Online (Natural) - Welsh (United Kingdom)",
+    "uri": "Microsoft Nia Online (Natural) - Welsh (United Kingdom)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "zu-ZA",
+    "name": "Microsoft Thando Online (Natural) - Zulu (South Africa)",
+    "uri": "Microsoft Thando Online (Natural) - Zulu (South Africa)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "zu-ZA",
+    "name": "Microsoft Themba Online (Natural) - Zulu (South Africa)",
+    "uri": "Microsoft Themba Online (Natural) - Zulu (South Africa)",
+    "browser": "Microsoft Edge",
+    "os": "Windows",
+    "gender": "M"
+  }
+]

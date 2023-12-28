@@ -1,0 +1,178 @@
+[
+  {
+    "lang": "en-US",
+    "name": "Microsoft David - English (United States)",
+    "uri": "Microsoft David - English (United States)",
+    "browser": "Google Chrome",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "en-US",
+    "name": "Microsoft Mark - English (United States)",
+    "uri": "Microsoft Mark - English (United States)",
+    "browser": "Google Chrome",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "en-US",
+    "name": "Microsoft Zira - English (United States)",
+    "uri": "Microsoft Zira - English (United States)",
+    "browser": "Google Chrome",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "de-DE",
+    "name": "Google Deutsch",
+    "uri": "Google Deutsch",
+    "browser": "Google Chrome",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "en-US",
+    "name": "Google US English",
+    "uri": "Google US English",
+    "browser": "Google Chrome",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "en-GB",
+    "name": "Google UK English Female",
+    "uri": "Google UK English Female",
+    "browser": "Google Chrome",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "en-GB",
+    "name": "Google UK English Male",
+    "uri": "Google UK English Male",
+    "browser": "Google Chrome",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "es-ES",
+    "name": "Google español",
+    "uri": "Google español",
+    "browser": "Google Chrome",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "es-US",
+    "name": "Google español de Estados Unidos",
+    "uri": "Google español de Estados Unidos",
+    "browser": "Google Chrome",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "fr-FR",
+    "name": "Google français",
+    "uri": "Google français",
+    "browser": "Google Chrome",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "hi-IN",
+    "name": "Google हिन्दी",
+    "uri": "Google हिन्दी",
+    "browser": "Google Chrome",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "id-ID",
+    "name": "Google Bahasa Indonesia",
+    "uri": "Google Bahasa Indonesia",
+    "browser": "Google Chrome",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "it-IT",
+    "name": "Google italiano",
+    "uri": "Google italiano",
+    "browser": "Google Chrome",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "ja-JP",
+    "name": "Google 日本語",
+    "uri": "Google 日本語",
+    "browser": "Google Chrome",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "ko-KR",
+    "name": "Google 한국의",
+    "uri": "Google 한국의",
+    "browser": "Google Chrome",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "nl-NL",
+    "name": "Google Nederlands",
+    "uri": "Google Nederlands",
+    "browser": "Google Chrome",
+    "os": "Windows",
+    "gender": "M"
+  },
+  {
+    "lang": "pl-PL",
+    "name": "Google polski",
+    "uri": "Google polski",
+    "browser": "Google Chrome",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "pt-BR",
+    "name": "Google português do Brasil",
+    "uri": "Google português do Brasil",
+    "browser": "Google Chrome",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "ru-RU",
+    "name": "Google русский",
+    "uri": "Google русский",
+    "browser": "Google Chrome",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "zh-CN",
+    "name": "Google 普通话（中国大陆）",
+    "uri": "Google 普通话（中国大陆）",
+    "browser": "Google Chrome",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "zh-HK",
+    "name": "Google 粤語（香港）",
+    "uri": "Google 粤語（香港）",
+    "browser": "Google Chrome",
+    "os": "Windows",
+    "gender": "F"
+  },
+  {
+    "lang": "zh-TW",
+    "name": "Google 國語（臺灣）",
+    "uri": "Google 國語（臺灣）",
+    "browser": "Google Chrome",
+    "os": "Windows",
+    "gender": "F"
+  }
+]
